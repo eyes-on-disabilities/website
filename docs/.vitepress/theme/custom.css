@@ -1,0 +1,8 @@
+/* vars explained in https://github.com/vuejs/vitepress/blob/main/src/client/theme-default/styles/vars.css */
+
+.dark {
+  --vp-c-bg: #2a0021;
+  --vp-c-bg-alt: #23001e;
+  --vp-c-bg-elv: #3d0b32;
+  --vp-c-bg-soft: #3d0b32;
+}
