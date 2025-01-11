@@ -29,7 +29,7 @@ export default defineConfig({
                 items: [
                     {
                         text: "ALS und Motoneuron-Krankheiten",
-                        link: "/02-grundlagenwissen/01-als-und-motoneuron-krankheiten",
+                        link: "/02-grundlagenwissen/01-motoneuron-krankheiten",
                     },
                     {
                         text: "Eye-Tracking: Was ist das?",

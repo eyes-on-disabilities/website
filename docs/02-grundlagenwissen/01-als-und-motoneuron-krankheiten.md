@@ -1,1 +1,0 @@
-als und motoneuron krankheiten
