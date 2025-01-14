@@ -1,11 +1,14 @@
 # Impressum
 
-
 Impressum
+
+
 
 Anbieterkennung nach § 5 TMG
 
-IFB-Stiftung
+
+
+**IFB-Stiftung**
 Storchenallee 2
 65201 Wiesbaden
 
@@ -22,19 +25,14 @@ Markus Sommer
 
 Geschäftsführerin: Melissa Groh
 
-
 Aufgrund der Gemeinnützigkeit steuerbefreit
 
 Redaktionelle Verantwortung:
 Christian Schuster
 E-Mail: christian.schuster@ifb-stiftung.de
 
-
 Technische Entwicklung und Design
-
-Erstellt mit dem Content-Management-System „WordPress“.
 
 Urheber- und Kennzeichenrecht
 
 Alle Rechte bleiben vorbehalten. Das Copyright für veröffentlichte, vom Autor selbst erstellte Objekte bleibt allein beim Autor der Seiten. Eine Vervielfältigung oder Verwendung solcher Grafiken, Tondokumente, Videosequenzen und Texte in anderen elektronischen oder gedruckten Publikationen ist ohne ausdrückliche Zustimmung des Autors nicht gestattet.
-
