@@ -61,7 +61,12 @@ export default defineConfig({
             {
                 text: "Software und Hardware im Detail",
                 items: [
-                    { text: "bla", link: "/04-software-und-hardware-im-detail/bla" },
+                    { text: "AITrack", link: "/04-software-und-hardware-im-detail/aitrack" },
+                    { text: "EyeTrackVR", link: "/04-software-und-hardware-im-detail/eyetrackvr" },
+                    { text: "Miranda", link: "/04-software-und-hardware-im-detail/miranda" },
+                    { text: "Opentrack", link: "/04-software-und-hardware-im-detail/opentrack" },
+                    { text: "OptiKey", link: "/04-software-und-hardware-im-detail/optikey" },
+                    { text: "Pupil", link: "/04-software-und-hardware-im-detail/pupil" },
                 ],
             },
             {
