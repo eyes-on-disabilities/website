@@ -11,6 +11,7 @@ export default defineConfig({
             { text: "Kontakt", link: "/06-sonstiges/kontakt" },
             { text: "Spenden", link: "/06-sonstiges/spenden" },
             { text: "Impressum", link: "/06-sonstiges/impressum" },
+            { text: "Datenschutz", link:"/06-sontiges/datenschutz" },
         ],
 
         sidebar: [
