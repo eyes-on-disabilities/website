@@ -1,34 +1,28 @@
 # Impressum
 
-Impressum
-
-
-
 Anbieterkennung nach § 5 TMG
 
-
-
-**IFB-Stiftung**
-Storchenallee 2
+**IFB-Stiftung**<br>
+Storchenallee 2<br>
 65201 Wiesbaden
 
-Telefon: 0800 0009524
+Telefon: 0800 0009524<br>
 Fax: 0611 1828370
 
-E-Mail: info@ifb-stiftung.de
-Internet: www.ifb-stiftung.de
+E-Mail: info@ifb-stiftung.de<br>
+Internet: https://www.ifb-stiftung.de
 
-Vorstand:
-Wolfgang Groh, 1. Vorsitzender
-Melissa Groh
+Vorstand:<br>
+Wolfgang Groh, 1. Vorsitzender<br>
+Melissa Groh<br>
 Markus Sommer
 
 Geschäftsführerin: Melissa Groh
 
 Aufgrund der Gemeinnützigkeit steuerbefreit
 
-Redaktionelle Verantwortung:
-Christian Schuster
+Redaktionelle Verantwortung:<br>
+Christian Schuster<br>
 E-Mail: christian.schuster@ifb-stiftung.de
 
 Technische Entwicklung und Design

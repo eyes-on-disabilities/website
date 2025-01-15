@@ -66,7 +66,7 @@ export default defineConfig({
             {
                 text: "Weiteres zu Eye-Tracking-Themen",
                 items: [
-                    { text: "bla", link: "/05-weiteres-zu-eye-tracking-themen/bla" },
+                    { text: "Firmen, Spiele, Foren", link: "/05-weiteres-zu-eye-tracking-themen/firmen-spiele-foren" },
                 ],
             },
             {
