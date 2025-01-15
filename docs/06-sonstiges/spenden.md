@@ -14,9 +14,9 @@ Vielen Dank, dass Sie uns eine Spende zukommen lassen wollen. Sie machen unsere 
 
 Gerne können Sie uns auch per Banküberweisung eine Spende zukommen lassen.
 
-**Kontoinhaber: IFB-Stiftung**
-**Verwendungszweck: Gaming
-IBAN: DE54 5109 0000 0000 0165 19
+**Kontoinhaber: IFB-Stiftung**<br>
+**Verwendungszweck: Gaming<br>
+IBAN: DE54 5109 0000 0000 0165 19<br>
 BIC: WIBADE5WXXX (Wiesbadener Volksbank)**
 
 ## Wofür werden Ihre Spenden verwendet
