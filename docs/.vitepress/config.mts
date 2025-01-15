@@ -49,10 +49,10 @@ export default defineConfig({
                         text: "Smartphone",
                         link: "/03-der-eye-tracking-guide/03-smartphone",
                     },
-                    { text: "Laptop", link: "/03-der-eye-tracking-guide/04-laptop" },
+                    { text: "Webcam", link: "/03-der-eye-tracking-guide/04-webcam" },
                     {
-                        text: "Unsere Brille",
-                        link: "/03-der-eye-tracking-guide/05-unsere-brille",
+                        text: "Eye-Tracking-Brille",
+                        link: "/03-der-eye-tracking-guide/05-eye-tracking-brille",
                     },
                     { text: "Produkte", link: "/03-der-eye-tracking-guide/06-produkte" },
                 ],

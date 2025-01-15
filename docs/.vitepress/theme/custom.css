@@ -1,10 +1,75 @@
 /* vars explained in https://github.com/vuejs/vitepress/blob/main/src/client/theme-default/styles/vars.css */
 
-.dark {
-  --eod-violet-1: #470639;
+:root {
+  --eod-violet-01: #150511;
+  --eod-violet-02: #250a1e;
+  --eod-violet-03: #340e2b;
+  --eod-violet-04: #441238;
+  --eod-violet-05: #531645;
+  --eod-violet-06: #631a52;
+  --eod-violet-07: #721e5f;
+  --eod-violet-08: #82226c;
+  --eod-violet-09: #912679;
+  --eod-violet-10: #a12a86; /* main */
+  --eod-violet-11: #b35399;
+  --eod-violet-12: #c476ad;
+  --eod-violet-13: #d498c1;
+  --eod-violet-14: #e3bad6;
+  --eod-violet-15: #f1dcea;
+  --eod-violet-soft: rgba(161, 42, 134, 0.32);
 
-  --vp-c-bg: var(--eod-violet-1);
-  --vp-c-bg-alt: #3e0236;
-  --vp-c-bg-elv: #621c53;
-  --vp-c-bg-soft: #621c53;
+  --eod-yellow-01: #4d4800;
+  --eod-yellow-02: #615b00;
+  --eod-yellow-03: #756d00;
+  --eod-yellow-04: #887f00;
+  --eod-yellow-05: #9c9100;
+  --eod-yellow-06: #b0a400;
+  --eod-yellow-07: #c3b600;
+  --eod-yellow-08: #d7c800;
+  --eod-yellow-09: #eadb00;
+  --eod-yellow-10: #feed00; /* main */
+  --eod-yellow-11: #fff04f;
+  --eod-yellow-12: #fff277;
+  --eod-yellow-13: #fff59b;
+  --eod-yellow-14: #fff8bd;
+  --eod-yellow-15: #fffcde;
+  --eod-yellow-soft: rgba(254, 237, 0, 0.32);
+
+  --vp-home-hero-name-color: var(--eod-violet-10);
+
+  --vp-c-brand-1: var(--eod-violet-06);
+  --vp-c-brand-2: var(--eod-violet-08);
+  --vp-c-brand-3: var(--eod-violet-10);
+  --vp-c-brand-soft: var(--eod-violet-soft);
+}
+
+.dark {
+  --vp-c-bg: var(--eod-violet-03);
+  --vp-c-bg-alt: var(--eod-violet-02);
+  --vp-c-bg-elv: var(--eod-violet-04);
+  --vp-c-bg-soft: var(--eod-violet-04);
+
+  /* making the soft versions a little less transparent */
+  --vp-c-gray-soft: rgba(101, 117, 133, 0.32);
+  --vp-c-indigo-soft: rgba(100, 108, 255, 0.32);
+  --vp-c-purple-soft: rgba(159, 122, 234, 0.32);
+  --vp-c-green-soft: rgba(16, 185, 129, 0.32);
+  --vp-c-yellow-soft: rgba(234, 179, 8, 0.32);
+  --vp-c-red-soft: rgba(244, 63, 94, 0.32);
+
+  --vp-c-brand-1: var(--eod-violet-12);
+  --vp-c-brand-2: var(--eod-violet-11);
+  --vp-c-brand-3: var(--eod-violet-10);
+  --vp-c-brand-soft: var(--eod-violet-soft);
+
+  --vp-button-brand-text: var(--vp-c-black);
+  --vp-button-brand-bg: var(--eod-yellow-10);
+  --vp-button-brand-hover-text: var(--vp-c-black);
+  --vp-button-brand-hover-bg: var(--eod-yellow-14);
+  --vp-button-brand-active-text: var(--vp-c-black);
+  --vp-button-brand-active-bg: var(--eod-yellow-10);
+
+  --vp-c-border: var(--eod-violet-12);
+  --vp-c-divider: var(--eod-violet-05);
+  --vp-c-gutter: var(--vp-c-black);
 }

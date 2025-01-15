@@ -1,6 +1,13 @@
-# Mit Laptop oder Computer mit Webcam
+# Eye-Tracking mit Laptop oder Computer mit Webcam
 
-Für alle weiteren Schritte wird ein Laptop oder ein Computer mit einer Webcam benötigt.
+In diesem Kapitel wird gezeigt, welche Lösung bereits existieren, die nur einen Laptop oder einen Computer mit Webcam erfordern.
+
+## Funktionsweise
+
+Die Lösungen haben gemeinsam, dass eine Webcam frontal auf Kopf oder auf das Gesicht gerichtet ist.
+Der Vorteil dieser Lösungen ist der simple Aufbau, und dass viele Haushalte bereits die geforderten Geräte besitzen.
+Der Nachteil ist, dass aufgrund der Entfernung zum Auge die Blickrichtung nur bedingt gut aufgezeichnet werden kann.
+Auch sind die Lösungen anfällig für schlechte Lichtverhältnisse.
 
 ## Ich habe noch keinen Laptop oder Computer mit Webcam
 Sollte ein Laptop mit eingebauter Webcam oder ein Computer mit separater Webcam noch nicht vorhanden sein, können sie als Gebrauchtgeräte günstig erworden werden.
@@ -16,15 +23,6 @@ Ein gebrauchter Laptop oder Computer mit empfohlenen Anforderungen ist bereits f
 Zur Webcam haben wir keine gesonderten Anforderungen. Sollte nicht schon eine im Laptop verbaut sein ist eine 20€-Webcam vollkommen ausreichend.
 Wir empfehlen für Käufe den https://www.afbshop.de/, auf welchem aufbereitete, gebrauchte Geräte mit Garantie weiterverkauft werden.
 Der Shop zeichnet sich nicht nur dadurch aus, dass durch dessen Arbeit tausende Tonnen CO₂ und Elektroschrott eingespart wird, sondern auch, dass von den 660 Mitarbeitenden fast die Hälfte aus Menschen mit Behinderungen besteht.
-
-## Eine Eye- und Head-Tracking-Lösung mit einer Webcam
-
-Wie bereits im Kapitel _Eye-Tracking: Was ist das?_ geschildert, müssen wir Software finden, die die drei Bestandteile beim Eye-Tracking abzudecken:
-- **Aufzeichnung**: Welche Geräte und Software brauche ich, um meinen Blick aufzuzeichnen?
-- **Kalibrierung**: Welche Software wandelt meine Blickrichtung in eine Bildschirmposition um?
-- **Aktion**: Welche Software kann diese Bildschirmposition dann weiterverarbeiten, um z.B. den Mauszeigen entsprechend zu positionen?
-
-Im folgenden Zeigen wir Software-Kombinationen, und wie sie in diese Bestandteile spielen.
 
 ## Head-Tracking mit AITrack, Miranda und Optikey
 
