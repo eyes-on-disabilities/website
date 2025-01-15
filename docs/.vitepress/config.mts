@@ -78,6 +78,7 @@ export default defineConfig({
                     { text: "Presse", link: "/06-sonstiges/presse" },
                     { text: "Spenden", link: "/06-sonstiges/spenden" },
                     { text: "Impressum", link: "/06-sonstiges/impressum" },
+                    { text: "Datenschutz", link:"/06-sontiges/datenschutz" },
                 ],
             },
         ],
