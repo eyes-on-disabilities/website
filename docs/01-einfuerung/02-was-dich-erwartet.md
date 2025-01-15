@@ -1,5 +1,8 @@
 # Was dich auf den folgenden Seiten erwartet
 
+![](/mood-laptop-webcam-smartphone.png "Ein Laptop, eine Webcam und ein Smartphone liegen auf einem Tisch.")
+*Photo by Jakub Zerdzicki on [Pexels](https://www.pexels.com/photo/electronic-devices-mockup-smartphone-18275877/)*
+
 Auf den folgenden Seiten werden wir dir zeigen, wie du dir deine Eye-Tracking-Lösung zusammenstellen kannst.
 Dabei musst du nicht zwingend viel Geld ausgeben: Im besten Fall hast du alles, was du brauchst, schon zu Hause.
 
@@ -14,7 +17,10 @@ Solltest du dennoch Fragen oder Anregungen haben, zögere nicht uns zu kontaktie
 ## Aufbau der Kapitel
 
 Im _Grundlagenwissen_ wird erklärt, was ALS und Motoneuron-Krankheiten sind, was Eye- und Head-Tracking ist und wie es funktioniert, und wie Betroffene von dieser Technologie profitieren.
+
 Im _Der Tracking Guide_ wird vorgestellt, mit welchen Mitteln Eye-Tracking-Lösungen zusammengestellt werden können.
 Dabei wird begonnen mit einfachsten Lösungen wie mit Stift und Papier und endet mit fertigen Produkten von großen Herstellern.
+
 In _Software und Hardware im Detail_ werden einzelne Bestandteile nochmal vertieft.
+
 Und in _Weiteres zu Eye-Tracking-Themen_ werden weitere Informationen vorgestellt, wie eine Liste an Foren für den Austausch, Eye-Tracking-Videospiele, Firmen, Datensätze und mehr. 

@@ -31,7 +31,7 @@ Die Versorgung von MND-Betroffenen muss deshalb weit über die medizinische Beha
 Es braucht technologische und vor allem soziale Unterstützung, um ihre Kommunikation so lange wie möglich zu erhalten und die Teilhabe am gesellschaftlichen Leben sicherzustellen.
 Nur so kann ein würdiges Leben trotz der Krankheit ermöglicht werden.
 
-# Eye- und Head-Tracking als Hilfsmittel zur Kommunikation
+## Eye- und Head-Tracking als Hilfsmittel zur Kommunikation
 
 Eye- und Head-Tracking sind Technologien, die Bewegungen der Augen oder des Kopfes erfassen, um Geräte wie Computer oder Kommunikationshilfen zu steuern.
 Diese Systeme sind besonders für Betroffene von Motoneuron-Krankheiten von großer Bedeutung.
