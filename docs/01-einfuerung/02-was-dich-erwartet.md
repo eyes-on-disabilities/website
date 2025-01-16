@@ -1,7 +1,7 @@
 # Was dich auf den folgenden Seiten erwartet
 
-![](/mood-laptop-webcam-smartphone.png "Ein Laptop, eine Webcam und ein Smartphone liegen auf einem Tisch.")
-*Photo by Jakub Zerdzicki on [Pexels](https://www.pexels.com/photo/electronic-devices-mockup-smartphone-18275877/)*
+![](/stockimage-laptop-webcam-smartphone.jpg "Ein Stockfoto von einem Laptop, einer Webcam und einem Smartphone, die auf einem Tisch liegen.")
+*Foto von Jakub Zerdzicki auf [Pexels](https://www.pexels.com/photo/electronic-devices-mockup-smartphone-18275877/)*
 
 Auf den folgenden Seiten werden wir dir zeigen, wie du dir deine Eye-Tracking-Lösung zusammenstellen kannst.
 Dabei musst du nicht zwingend viel Geld ausgeben: Im besten Fall hast du alles, was du brauchst, schon zu Hause.

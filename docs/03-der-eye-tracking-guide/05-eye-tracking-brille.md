@@ -1,5 +1,8 @@
 # Eye-Tracking mit dem Eye-Tracking-Brillengestell
 
+![](/our-eye-tracking-glasses.jpg "Unser Eye-Tracking-Brillengestell in Nahaufnahme. Es handelt sich um ein Brillengestell mit einem 3D-gedruckten Ärmchen und einer Minikamera. Klebeband und Kabel lassen das Gestell wie einen Prototypen aussehen.")
+*Unser Eye-Tracking-Brillengestell. [© IFB-Stiftung](https://ifb-stiftung.de/)*
+
 In diesem Kapitel stellen wir unser Eye-Tracking-Brillengestell vor, welche Vor- und Nachteile sie hat, und welche Möglichkeiten sich mit Dieser eröffnen.
 
 ::: warning Das Brillengestell ist noch in Entwicklung

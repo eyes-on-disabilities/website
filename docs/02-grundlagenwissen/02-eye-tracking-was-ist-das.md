@@ -1,5 +1,8 @@
 # Eye-Tracking: Was ist das, wie geht das?
 
+![](/kosmonaut-with-eye-tracker-on-iss.jpg "Kosmonaut Sergei Krikaljow auf der ISS um 2005. Sergei hat einen tragbaren Eye-Tracker an seinem Kopf geschnallt. Der Eye-Tracker wirkt sehr klobig, aber stabil. Sergei schwebt in der Mitte des Raumes, umgeben von technischen Geräten.")
+*Kosmonaut Sergei Krikaljow mit einem tragbaren Eye-Tracker auf der ISS, um 2005. Foto von Chronos Vision GmbH auf [Wikipedia](https://commons.wikimedia.org/wiki/File:Eye_Tracking_Device_003.jpg) unter [GPL](http://www.gnu.org/licenses/gpl.html).*
+
 Das Eye-Tracking – zu deutsch auch die "Blickerfassung" – bezeichnet das Aufzeichnen der Blickrichtung.
 Dazu verwendete Kameras werden dabei auf den Kopf oder gar direkt auf das Auge ausgerichtet.
 Mithilfe spezieller Software wird dann die Blickrichtung ausgewertet und zum Beispiel in eine Mausbewegung übersetzt.

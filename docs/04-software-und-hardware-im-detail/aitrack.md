@@ -1,5 +1,8 @@
 # AITrack: Head-Tracking nur mit der Webcam
 
+![](/aitrack.jpg "Ein Screenshot von der Software 'AITrack'. Das AITrack-Fenster zeigt die Aufnahme einer Webcam. In der Aufnahme ist ein Gesicht zu sehen. Die Software scheint das Gesicht zu erkennen und entsprechende Markierungen zu platzieren.")
+*[© IFB-Stiftung](https://ifb-stiftung.de/), Logo von [AITrack](https://github.com/AIRLegend/aitrack/blob/master/Images/Logo.png)*
+
 - Webseite: https://github.com/AIRLegend/aitrack
 - Typ: Software, Head-Tracker
 - Kosten: kostenlos

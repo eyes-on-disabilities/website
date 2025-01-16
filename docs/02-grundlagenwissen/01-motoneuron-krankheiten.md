@@ -1,5 +1,8 @@
 # ALS und andere Motoneuron-Krankheiten
 
+![](/als-patient-with-communication-board.jpg "Ein Mensch mit ALS trägt ein Brillengestell mit einem Laserpointer. Der Laserpointer ist auf eine Tafel mit Buchstaben – eine Kommunikationstafel – gerichtet.")
+*Ein Mensch mit ALS trägt ein Brillengestell mit einem Laserpointer. Der Laserpointer ist auf eine Tafel mit Buchstaben – eine Kommunikationstafel – gerichtet. Foto von Fezcat auf [Wikipedia](https://commons.wikimedia.org/wiki/File:Using_a_head_mounted_laser_to_point_to_a_communication_board.jpg) unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).*
+
 In diesem Kapitel wird beschrieben, was Motoneuron-Krankheiten sind, mit welchen Herausforderungen Betroffene zu kämpfen haben, und inwieweit Eye-Tracking-Systeme helfen können.
 
 ## Motoneuron-Krankheiten: Fortschreitender Verlust der Körperkontrolle
