@@ -1,5 +1,8 @@
 # EyeTrackVR: Eigentlich für VR, bald auch für dich
 
+![](/eyetrackvr.jpg "Ein Screenshot von der Eye-Tracking-Software 'EyeTrackVR'. Das Fenster von EyeTrackVR zeigt eine Nahaufnahme von einem Auge. Die Software scheint das Auge zu erkennen und entsprechende Markierungen zu platzieren.")
+*[© IFB-Stiftung](https://ifb-stiftung.de/), Logo von [EyeTrackVR](https://docs.eyetrackvr.dev/)*
+
 - Webseite: https://docs.eyetrackvr.dev/
 - Typ: Software und Hardware, Tragbarer Eye-Tracker
 - Kosten: Software ist kostenlos. Hardware ~25€, plus ~10€ für Kamera

@@ -54,6 +54,9 @@ Im Folgenden werden die verschiedenen Eye- und Head-Tracking-Verfahren mit ihren
 
 ### Tragbare Eye-Tracker
 
+![](/our-eye-tracking-glasses.jpg "Unser Eye-Tracking-Brillengestell in Nahaufnahme. Es handelt sich um ein Brillengestell mit einem 3D-gedruckten Ärmchen und einer Minikamera. Klebeband und Kabel lassen das Gestell wie einen Prototypen aussehen.")
+*Ein Tragbarer Eye-Tracker: Unser Eye-Tracking-Brillengestell. [© IFB-Stiftung](https://ifb-stiftung.de/)*
+
 Tragbare Eye-Tracker werden am Kopf befestigt und sind häufig Brillen mit eingebauten Kameras.
 Die Kameras sind direkt vor dem Auge platziert und können somit sehr genaue Augenbewegungen aufnehmen.
 Deshalb müssen die Kameras auch keine hohe Auflösung bieten: 0,5 Megapixel reichen bereits für ein gutes Ergebnis.
@@ -68,6 +71,9 @@ Um zum Beispiel den Blick auf einen Bildschirm zu messen, muss entweder der Kopf
 
 ### Externe Eye-Tracker
 
+![](/eye-tracker-external-webcam.jpg "Eine Webcam ist an einem Laptop-Bildschirm geklemmt.")
+*Eine Webcam kann als externes Eye-Tracking-Gerät ausreichen. Foto von Matheus Bertelli auf [Pexels](https://www.pexels.com/photo/modern-video-camera-hanging-on-display-of-laptop-7172701/)*
+
 Externe Eye-Tracker sind Geräte, die zum Beispiel auf einem Stativ oder am Bildschirm befestigt werden.
 Dabei muss das kein dazugekauftes Gerät sein: Die Webcam eines Laptops oder die Frontkamera des Smartphones kann bereits als externer Eye-Tracker dienen.
 Aufgrund des Abstandes kann sowohl der Kopf als auch die Augen aufgezeichnet werden, wodurch sich ohne Extrakosten bereits ein Eye- und Head-Tracking-System aufsetzen lässt.
@@ -77,6 +83,9 @@ Deshalb bieten Firmen optimierte Kameras zum Kauf an, die am Bildschirm befestig
 Die Kameras verfügen über eine höhere Auflösung und Infrarot-Leuchten, um auch bei schlechten Lichtverhältnissen ein gutes Tracking-Ergebnis zu erzielen.
 
 ### Head-Tracker
+
+![](/head-tracking.jpg "Ein Screenshot von der Head-Tracking-Software 'AITrack'. Das AITrack-Fenster zeigt die Aufnahme einer Webcam. In der Aufnahme ist ein Gesicht zu sehen. Die Software scheint das Gesicht zu erkennen und entsprechende Markierungen zu platzieren.")
+*AITrack ist eine Head-Tracking-Software, die mit lediglich mit einer Webcam funktioniert. [© IFB-Stiftung](https://ifb-stiftung.de/)*
 
 Um die Kopfbewegung aufzuzeichnen gibt es mehrere Varianten.
 In den meisten Fällen befindet sich eine Kamera auf einem Stativ oder an einem Bildschirm befestigt und schaut auf dem Kopf.

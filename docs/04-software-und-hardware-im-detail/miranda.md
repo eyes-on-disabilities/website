@@ -1,5 +1,8 @@
 # Miranda (Noch in Entwicklung): Eine Tracker-Schnittstelle zur Kalibrierung
 
+![](/miranda.jpg "Ein Screenshot von der Kalibrierungs-Software 'Miranda'. Das Fenster von Miranda zeigt verschiedene Schaltflächen mit Logos von Eye- und Head-Tracking-Software. Die Logos deuten auf Eingabe- und Ausgabeformate hin, die Miranda abzudecken scheint.")
+*[© IFB-Stiftung](https://ifb-stiftung.de/)*
+
 - Webseite: https://github.com/eyes-on-disabilities/miranda-eye-tracking-screen-calibrator
 - Kosten: kostenlos, Schnittstellenprogramm
 - Lizenz: Open-Source (noch unklar)

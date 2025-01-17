@@ -1,5 +1,8 @@
 # OpenTrack: Tracker-Schnittstelle, inklusive Head-Tracking-Software
 
+![](/opentrack.jpg "Ein Screenshot von der Kalibrierungs-Software 'OpenTrack'. Das Fenster von OpenTrack zeigt verschiedene Schaltflächen mit Logos von Eye- und Head-Tracking-Software. Die Logos deuten auf Eingabe- und Ausgabeformate hin, die OpenTrack abzudecken scheint.")
+*[© IFB-Stiftung](https://ifb-stiftung.de/), Logo von [OpenTrack](https://github.com/opentrack/opentrack)*
+
 - Webseite: https://github.com/opentrack/opentrack
 - Typ: Software, Schnittstellenprogramm
 - Kosten: kostenlos
