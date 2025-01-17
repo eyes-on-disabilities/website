@@ -3,7 +3,7 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
     title: "Eyes on (Dis)Abilities",
-    description: "A VitePress Site",
+    description: "Günstige Eye-Tracking-Lösungen für mehr Teilhabe",
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         nav: [

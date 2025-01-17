@@ -36,3 +36,5 @@ features:
     title: Flexibel
     details: "Viele Lösungen, so individuell wie du."
 ---
+
+<a rel="me" href="https://cccwi.social/@eyes_on_disabilities" hidden>A hidden link to our Mastodon so we get the verification there.</a>
