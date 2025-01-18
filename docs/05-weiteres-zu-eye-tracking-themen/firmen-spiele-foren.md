@@ -8,6 +8,12 @@ Wer sich mit Gleichgesinnten austauschen möchte, kann sich auf den folgenden We
 - https://reddit.com/r/ALS
 - https://reddit.com/r/mnd
 - https://aaccommunity.net
+- Auf Discord:
+  - [Eyes on (Dis)Abilities (das sind wir)](https://discord.gg/wqYUgdBDam)
+  - [EyeTrackVR](https://discord.gg/kkXYbVykZX)
+  - [Pupil Labs](https://discord.gg/gKmmGqy)
+  - [Tobii Gaming](https://discord.gg/tobiigaming)
+  - [JEOresearch (ein Eye-Tracking-YouTuber)](https://discord.gg/CGhv6VnZpD)
 
 ## Firmen
 

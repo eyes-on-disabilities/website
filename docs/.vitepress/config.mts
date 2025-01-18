@@ -6,6 +6,9 @@ export default defineConfig({
     description: "Günstige Eye-Tracking-Lösungen für mehr Teilhabe",
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
+
+        logo: "/logo_64x64.png",
+
         nav: [
             { text: "Jetzt loslegen", link: "/01-einfuerung/01-willkommen" },
             { text: "Kontakt", link: "/06-sonstiges/kontakt" },
@@ -61,18 +64,40 @@ export default defineConfig({
             {
                 text: "Software und Hardware im Detail",
                 items: [
-                    { text: "AITrack", link: "/04-software-und-hardware-im-detail/aitrack" },
-                    { text: "EyeTrackVR", link: "/04-software-und-hardware-im-detail/eyetrackvr" },
-                    { text: "Miranda", link: "/04-software-und-hardware-im-detail/miranda" },
-                    { text: "Opentrack", link: "/04-software-und-hardware-im-detail/opentrack" },
-                    { text: "OptiKey", link: "/04-software-und-hardware-im-detail/optikey" },
+                    {
+                        text: "AITrack",
+                        link: "/04-software-und-hardware-im-detail/aitrack",
+                    },
+                    {
+                        text: "Beam Eye-Tracker",
+                        link: "/04-software-und-hardware-im-detail/beam",
+                    },
+                    {
+                        text: "EyeTrackVR",
+                        link: "/04-software-und-hardware-im-detail/eyetrackvr",
+                    },
+                    {
+                        text: "Miranda",
+                        link: "/04-software-und-hardware-im-detail/miranda",
+                    },
+                    {
+                        text: "Opentrack",
+                        link: "/04-software-und-hardware-im-detail/opentrack",
+                    },
+                    {
+                        text: "OptiKey",
+                        link: "/04-software-und-hardware-im-detail/optikey",
+                    },
                     { text: "Pupil", link: "/04-software-und-hardware-im-detail/pupil" },
                 ],
             },
             {
                 text: "Weiteres zu Eye-Tracking-Themen",
                 items: [
-                    { text: "Firmen, Spiele, Foren", link: "/05-weiteres-zu-eye-tracking-themen/firmen-spiele-foren" },
+                    {
+                        text: "Firmen, Spiele, Foren",
+                        link: "/05-weiteres-zu-eye-tracking-themen/firmen-spiele-foren",
+                    },
                 ],
             },
             {
@@ -88,6 +113,10 @@ export default defineConfig({
             },
         ],
 
+        outline: {
+            label: "Abschnitte"
+        },
+
         socialLinks: [
             { icon: "codeberg", link: "https://codeberg.org/eyes-on-disabilities" },
             { icon: "github", link: "https://github.com/eyes-on-disabilities" },
@@ -95,9 +124,30 @@ export default defineConfig({
             { icon: "mastodon", link: "https://cccwi.social/@eyes_on_disabilities" },
         ],
 
-        docFooter: {
-            prev: "Vorige Seite",
-            next: "Nächste Seite",
+        footer: {
+            message: "Released under the MIT License.",
+            copyright: "Copyright © 2019-present Evan You",
         },
+
+        lastUpdated: {
+            text: "Zuletzt aktualisiert",
+            formatOptions: {
+                dateStyle: "medium",
+                timeStyle: "short",
+                hourCycle: "h24",
+            },
+        },
+
+        docFooter: {
+            prev: "Vorige Kapitel",
+            next: "Nächste Kapitel",
+        },
+
+        darkModeSwitchLabel: "Design",
+        lightModeSwitchTitle: "Zum hellen Design wechseln",
+        darkModeSwitchTitle: "Zum dunklen Design wechseln",
+        sidebarMenuLabel: "Kapitel",
+        returnToTopLabel: "Zum Kapitelanfang",
+        langMenuLabel: "Sprache ändern",
     },
 });

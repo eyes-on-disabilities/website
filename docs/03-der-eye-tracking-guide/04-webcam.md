@@ -4,16 +4,16 @@ In diesem Kapitel wird gezeigt, welche Lösung bereits existieren, die nur einen
 
 ## Funktionsweise
 
-Die Lösungen haben gemeinsam, dass eine Webcam frontal auf Kopf oder auf das Gesicht gerichtet ist.
+Bei allen in diesem Kapitel genannten Lösungen handelt es sich um [externe Eye-Tracking-Lösungen](/02-grundlagenwissen/02-eye-tracking-was-ist-das#screen-based-eye-tracking) beziehungsweise [Head-Tracking](/02-grundlagenwissen/02-eye-tracking-was-ist-das#head-tracking): eine Webcam wird an einem Bildschirm oder auf einem Stativ befestigt und frontal auf Kopf oder auf das Gesicht gerichtet.
 Der Vorteil dieser Lösungen ist der simple Aufbau, und dass viele Haushalte bereits die geforderten Geräte besitzen.
 Der Nachteil ist, dass aufgrund der Entfernung zum Auge die Blickrichtung nur bedingt gut aufgezeichnet werden kann.
 Auch sind die Lösungen anfällig für schlechte Lichtverhältnisse.
 
-## Ich habe noch keinen Laptop oder Computer mit Webcam
+## Ich habe noch keinen Laptop oder Computer mit Webcam {#buying-a-laptop}
 Sollte ein Laptop mit eingebauter Webcam oder ein Computer mit separater Webcam noch nicht vorhanden sein, können sie als Gebrauchtgeräte günstig erworden werden.
 Ein gebrauchter Laptop oder Computer mit empfohlenen Anforderungen ist bereits für weniger als 200€ zu erwerben.
 
-::: info Empfehlung zum Laptop oder Computer
+::: info Empfehlungen zum Laptop oder Computer
 - **Prozessor:** Intel Core i5 7200U @ 2,5 GHz
 - **Arbeitsspeicher:** 8GB
 - **Freier Speicherplatz:** 8GB
@@ -27,11 +27,11 @@ Der Shop zeichnet sich nicht nur dadurch aus, dass durch dessen Arbeit tausende 
 ## Head-Tracking mit AITrack, Miranda und Optikey
 
 ::: info In Kürze
-- **Art des Trackings:** Head-Tracking
+- **Art des Trackings:** [Head-Tracking](/02-grundlagenwissen/02-eye-tracking-was-ist-das#head-tracking)
 - **Benötigte Geräte und Materialien:** Webcam (20€)
-- **Aufzeichnung:** AITrack (kostenlos)
-- **Kalibrierung:** Miranda (kostenlos)
-- **Aktion:** Optikey (kostenlos)
+- **Aufzeichnung:** [AITrack (kostenlos)](/04-software-und-hardware-im-detail/aitrack)
+- **Kalibrierung:** [Miranda (kostenlos)](/04-software-und-hardware-im-detail/miranda)
+- **Aktion:** [Optikey (kostenlos)](/04-software-und-hardware-im-detail/optikey)
 - **Anforderungen:**
     - Eine Webcam muss vor dem Kopf platziert werden.
     - Der Kopf muss wissentlich bewegt werden können.
@@ -57,11 +57,11 @@ Die Anleitung:
 ## Head-Tracking mit ArUco Markern in Opentrack, Miranda und Optikey
 
 ::: info In Kürze
-- **Art des Trackings:** Head-Tracking
+- **Art des Trackings:** [Head-Tracking](/02-grundlagenwissen/02-eye-tracking-was-ist-das#head-tracking)
 - **Benötigte Geräte und Materialien:** Webcam (20€), Drucker um Marker zu drucken
-- **Aufzeichnung:** Opentrack (kostenlos)
-- **Kalibrierung:** Miranda (kostenlos)
-- **Aktion:** Optikey (kostenlos)
+- **Aufzeichnung:** [Opentrack (kostenlos)](/04-software-und-hardware-im-detail/opentrack)
+- **Kalibrierung:** [Miranda (kostenlos)](/04-software-und-hardware-im-detail/miranda)
+- **Aktion:** [Optikey (kostenlos)](/04-software-und-hardware-im-detail/optikey)
 - **Anforderungen:**
     - Eine Webcam muss vor dem Kopf platziert werden.
     - Es wird ein Drucker benötigt, um die ArUco Marker zu drucken.
@@ -90,11 +90,11 @@ Die Anleitung:
 ## Eye-Tracking mit dem Beam Eye-Tracker und Optikey
 
 ::: info In Kürze
-- **Art des Trackings:** Eye-Tracking
+- **Art des Trackings:** [externes Eye-Tracking](/02-grundlagenwissen/02-eye-tracking-was-ist-das#screen-based-eye-tracking)
 - **Benötigte Geräte und Materialien:** Webcam (20€)
-- **Aufzeichnung:** Beam Eye-Tracker (2 Stunden kostenlose Testversion, dann einmalig 30€)
+- **Aufzeichnung:** [Beam Eye-Tracker (2 Stunden kostenlose Testversion, dann einmalig 30€)](/04-software-und-hardware-im-detail/beam)
 - **Kalibrierung:** Im Beam Eye-Tracker enthalten
-- **Aktion:** Optikey (kostenlos)
+- **Aktion:** [Optikey (kostenlos)](/04-software-und-hardware-im-detail/optikey)
 - **Anforderungen:**
     - Eine Webcam muss vor dem Gesicht platziert werden.
       Je klarer die Augen erkennbar sind, umso besser.

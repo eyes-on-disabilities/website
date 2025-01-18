@@ -1,15 +1,15 @@
 # ALS und andere Motoneuron-Krankheiten
 
 ![](/als-patient-with-communication-board.jpg "Ein Mensch mit ALS trägt ein Brillengestell mit einem Laserpointer. Der Laserpointer ist auf eine Tafel mit Buchstaben – eine Kommunikationstafel – gerichtet.")
-*Ein Mensch mit ALS trägt ein Brillengestell mit einem Laserpointer. Der Laserpointer ist auf eine Tafel mit Buchstaben – eine Kommunikationstafel – gerichtet. Foto von Fezcat auf [Wikipedia](https://commons.wikimedia.org/wiki/File:Using_a_head_mounted_laser_to_point_to_a_communication_board.jpg) unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).*
+*Ein Mensch mit ALS trägt ein Brillengestell mit einem Laserpointer. Der Laserpointer ist auf eine Tafel mit Buchstaben – eine Kommunikationstafel – gerichtet. Foto von Fezcat auf [Wikipedia](https://commons.wikimedia.org/wiki/File:Using_a_head_mounted_laser_to_point_to_a_communication_board.jpg) unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)*
 
 In diesem Kapitel wird beschrieben, was Motoneuron-Krankheiten sind, mit welchen Herausforderungen Betroffene zu kämpfen haben, und inwieweit Eye-Tracking-Systeme helfen können.
 
 ## Motoneuron-Krankheiten: Fortschreitender Verlust der Körperkontrolle
 
-Motoneuron-Krankheiten (MND) sind neurologischen Erkrankungen, die die Nervenzellen betreffen, welche für die Steuerung von Muskelbewegungen verantwortlich sind.
-Sie führen zu einem fortschreitenden Abbau der sogenannten Motoneuronen, was Muskelschwäche, Lähmungen und schließlich den Verlust grundlegender körperlicher Funktionen wie Sprechen, Schlucken und Atmen zur Folge haben kann.
-Zu den bekanntesten Erkrankungen zählt die Amyotrophe Lateralsklerose (ALS).
+[Motoneuron-Krankheiten (MND)](https://de.wikipedia.org/wiki/Motoneuron-Krankheit) sind neurologische Erkrankungen, die jene Nervenzellen betreffen, die für die Steuerung von Muskelbewegungen verantwortlich sind.
+Sie führen zu einem fortschreitenden Abbau der sogenannten [Motoneuronen](https://de.wikipedia.org/wiki/Motoneuron), was Muskelschwäche, Lähmungen und schließlich den Verlust grundlegender körperlicher Funktionen wie Sprechen, Schlucken und Atmen zur Folge haben kann.
+Zu den bekanntesten Erkrankungen zählt die [Amyotrophe Lateralsklerose (ALS)](https://de.wikipedia.org/wiki/Amyotrophe_Lateralsklerose).
 Die genaue Ursache von MND ist oft unbekannt, jedoch können genetische Faktoren oder Umweltfaktoren eine Rolle spielen.
 
 ## Erkrankte können sich kaum mehr mitteilen: Soziale Isolation und Probleme bei der Pflege sind die Folge
@@ -19,12 +19,12 @@ Durch Muskellähmungen verlieren Betroffene häufig die Fähigkeit zu sprechen o
 Im späteren Verlauf bleibt oft nur die bewusste Augenbewegung übrig.
 
 Betroffene und Angehörige müssen nun kreativ werden.
-Kommunikation ist zum Beispiel über Ja-Nein-Fragen mit Blinzeln oder mit Kommunikationstafeln möglich.
+Kommunikation ist zum Beispiel über Ja-Nein-Fragen mit Blinzeln oder mit [Kommunikationstafeln](/03-der-eye-tracking-guide/02-kommunikationstafeln) möglich.
 Dies erfordert jedoch Zeit und Geduld aller Beteiligten.
 Pflegepersonal, das ohnehin stark belastet ist, kann diese Zeit oft nicht aufbringen.
 Kommunikation muss unter Zeitdruck auf das Nötigste reduziert werden.
 Komplexe Sachverhalte zu klären ist unmöglich.
-Mal eben darum bitten, den linken Nasenflügel zu kratzen: Geht nicht.
+Mal eben darum bitten, den linken Nasenflügel zu kratzen? Unvorstellbar.
 
 Im Krankenzimmer entsteht dadurch ein Teufelskreis: Ohne eine Möglichkeit, Bedürfnisse, Schmerzen oder Ängste mitzuteilen, können Betroffene leicht übersehen oder missverstanden werden.
 Dies verstärkt das Gefühl von Hilflosigkeit und Abhängigkeit.
@@ -36,7 +36,7 @@ Nur so kann ein würdiges Leben trotz der Krankheit ermöglicht werden.
 
 ## Eye- und Head-Tracking als Hilfsmittel zur Kommunikation
 
-Eye- und Head-Tracking sind Technologien, die Bewegungen der Augen oder des Kopfes erfassen, um Geräte wie Computer oder Kommunikationshilfen zu steuern.
+[Eye- und Head-Tracking](https://de.wikipedia.org/wiki/Eye-Tracking) sind Technologien, die Bewegungen der Augen oder des Kopfes erfassen, um Geräte wie Computer oder Kommunikationshilfen zu steuern.
 Diese Systeme sind besonders für Betroffene von Motoneuron-Krankheiten von großer Bedeutung.
 Sie ermöglichen es, trotz Lähmungen interaktiv zu bleiben und sich auszudrücken.
 Besonders bei MND-Betroffenen bleibt die Augenbewegung oft bis spät in der Krankheit erhalten. 

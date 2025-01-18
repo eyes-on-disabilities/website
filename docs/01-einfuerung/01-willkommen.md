@@ -6,4 +6,4 @@
 Hallo! Wir sind _Eyes on (Dis)Abilities_ und wir möchten Menschen mit ALS und anderen Motoneuron-Krankheiten mit günstigen oder gar kostenlosen Eye- und Head-Tracking-Lösungen versorgen.
 Schön, dass du zu uns gefunden hast.
 
-Auf 
+Um zum nächsten Kapitel zu gelangen, klicke unten auf _Nächstes Kapitel_. 
