@@ -111,6 +111,13 @@ export default defineConfig({
                     { text: "Datenschutz", link: "/06-sonstiges/datenschutz" },
                 ],
             },
+            {
+                text: "Development & Wiki",
+                collapsed: true,
+                items: [
+                    { text: "Einführung", link: "/07-wiki/einfuerung" },
+                ],
+            },
         ],
 
         outline: {
