@@ -10,7 +10,7 @@ export default defineConfig({
         logo: "/logo_64x64.png",
 
         nav: [
-            { text: "Jetzt loslegen", link: "/01-einfuerung/01-willkommen" },
+            { text: "Jetzt loslegen", link: "/01-einfuehrung/01-willkommen" },
             { text: "Kontakt", link: "/06-sonstiges/kontakt" },
             { text: "Spenden", link: "/06-sonstiges/spenden" },
             { text: "Impressum", link: "/06-sonstiges/impressum" },
@@ -21,10 +21,10 @@ export default defineConfig({
             {
                 text: "Einführung",
                 items: [
-                    { text: "Willkommen", link: "/01-einfuerung/01-willkommen" },
+                    { text: "Willkommen", link: "/01-einfuehrung/01-willkommen" },
                     {
                         text: "Was dich erwartet",
-                        link: "/01-einfuerung/02-was-dich-erwartet",
+                        link: "/01-einfuehrung/02-was-dich-erwartet",
                     },
                 ],
             },
@@ -44,7 +44,7 @@ export default defineConfig({
             {
                 text: "Der Eye-Tracking-Guide",
                 items: [
-                    { text: "Einstieg", link: "/03-der-eye-tracking-guide/01-einstieg" },
+                    { text: "Einführung", link: "/03-der-eye-tracking-guide/01-einfuehrung" },
                     {
                         text: "Kommunikationstafeln",
                         link: "/03-der-eye-tracking-guide/02-kommunikationstafeln",
@@ -115,13 +115,17 @@ export default defineConfig({
                 text: "Development & Wiki",
                 collapsed: true,
                 items: [
-                    { text: "Einführung", link: "/07-wiki/einfuerung" },
+                    { text: "Einführung", link: "/07-wiki/einfuehrung" },
+                    {
+                        text: "Sicherheit bei Infrarotstrahlen",
+                        link: "/07-wiki/infrarot-sicherheit",
+                    },
                 ],
             },
         ],
 
         outline: {
-            label: "Abschnitte"
+            label: "Abschnitte",
         },
 
         socialLinks: [

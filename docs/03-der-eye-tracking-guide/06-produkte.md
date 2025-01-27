@@ -6,7 +6,7 @@ In diesem Kapitel werden käufliche Software und Geräte vorgestellt.
 Wir möchten, dass du wenig bis gar kein Geld ausgibst um deine perfekte Eye-Tracking-Lösung zu finden.
 Wir stellen diese Produkte nur der Transparenz wegen vor, möchten dich aber keinesfalls zum Kauf dieser ermutigen.
 Aus Erfahrung können wir sagen: Eye-Tracking muss nicht teuer sein und ist schon mit "Hausmitteln" möglich.
-Lies gerne mehr zu unserem Lösungen im [Eye-Tracking-Guide](/03-der-eye-tracking-guide/01-einstieg).
+Lies gerne mehr zu unserem Lösungen im [Eye-Tracking-Guide](/03-der-eye-tracking-guide/01-einfuehrung).
 :::
 
 - Tobii Eye Tracker 5, 279€ neu, 220€ refurbished: https://gaming.tobii.com/product/refurbished-tobii-eye-tracker-5/

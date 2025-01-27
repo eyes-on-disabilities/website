@@ -5,10 +5,18 @@
 
 In diesem Kapitel stellen wir unser Eye-Tracking-Brillengestell vor, welche Vor- und Nachteile sie hat, und welche Möglichkeiten sich mit Dieser eröffnen.
 
-::: warning Das Brillengestell ist noch in Entwicklung
+::: warning Hinweis 1: Das Brillengestell ist noch in Entwicklung
 Das Brillengestell befindet sich noch in Entwicklung.
 Zwar ist es mit dem aktuellen Design bereits möglich, Eye-Tracking zu betreiben, jedoch gibt es Einschränkungen in Funktionalität und Tragekomfort.
 Es ist mit gravierenden Änderungen in den nächsten Wochen und Monaten zu rechnen.
+:::
+
+::: warning Hinweis 2: Sicherheitshinweise zu Infrarotstrahlung am Auge
+Zum aktuellen Zeitpunkt können wir die Risiken von Infrarotstrahlung am Auge noch nicht genau einschätzen.
+Wir stellen aktuell Recherchen an und werden die Ergebnisse alsbald veröffentlichen.
+
+Ob mit oder ohne unseren Ergebnissen: Wir möchten euch ermutigen, euch selbst ein Bild vom Risikopotenzial zu machen.
+Im Kapitel [Sicherheit bei Infrarotstrahlen](/07-wiki/infrarot-sicherheit) findet ihr den aktuellen Stand unserer Recherchen, sowie alle Quellen, die wir benutzen.
 :::
 
 ## Funktionsweise
