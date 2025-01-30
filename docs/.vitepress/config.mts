@@ -1,3 +1,4 @@
+import footnote from "markdown-it-footnote";
 import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
@@ -44,7 +45,10 @@ export default defineConfig({
             {
                 text: "Der Eye-Tracking-Guide",
                 items: [
-                    { text: "Einführung", link: "/03-der-eye-tracking-guide/01-einfuehrung" },
+                    {
+                        text: "Einführung",
+                        link: "/03-der-eye-tracking-guide/01-einfuehrung",
+                    },
                     {
                         text: "Kommunikationstafeln",
                         link: "/03-der-eye-tracking-guide/02-kommunikationstafeln",
@@ -160,5 +164,11 @@ export default defineConfig({
         sidebarMenuLabel: "Kapitel",
         returnToTopLabel: "Zum Kapitelanfang",
         langMenuLabel: "Sprache ändern",
+    },
+    markdown: {
+        config: (md) => {
+            md.use(footnote);
+        },
+        math: true,
     },
 });

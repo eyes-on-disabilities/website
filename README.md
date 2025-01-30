@@ -12,6 +12,8 @@ First, make sure you have the prerequisites:
 Then navigate into the project's root and install vitepress:
 ```sh [npm]
 $ npm add -D vitepress
+$ npm add -D markdown-it-mathjax3
+$ npm add -D markdown-it-footnote
 ```
 
 To start a local live-server, run:

@@ -63,7 +63,7 @@ Die Kameras sind direkt vor dem Auge platziert und können somit sehr genaue Aug
 Deshalb müssen die Kameras auch keine hohe Auflösung bieten: 0,5 Megapixel reichen bereits für ein gutes Ergebnis.
 Lediglich eine große Brennweite sollten die Kamera aufweisen, um das gesamte Auge erfassen zu können.
 
-![](/visible-and-ir-light.jpg "Ein zwei geteiltes Bild. Links zeigt ein Auge unter sichtbaren Licht. Rechts zeigt ein Auge unter Infrarotlicht.")
+![](/visible-and-ir-light.jpg "Ein zwei geteiltes Bild. Links zeigt ein Auge unter sichtbaren Licht. Rechts zeigt ein Auge unter Infrarotlicht. Unter Infrarotlicht ist die Pupille leichter von der Iris zu unterscheiden.")
 *Links ein Auge unter normalen Licht, rechts eins unter Infrarotlicht. [© IFB-Stiftung](https://ifb-stiftung.de/)*
 
 Besonders beliebt ist die Nutzung von Infrarotkameras und -beleuchtung, mit welcher die Pupille deutlich klarer zu erkennen ist.
