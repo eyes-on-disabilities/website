@@ -37,3 +37,4 @@ Wer sich mit Gleichgesinnten austauschen möchte, kann sich auf den folgenden We
 - Schach mit dem Auge spielen: https://www.eyegazechess.com/
 - EyeMine: Minecraft mit den Augen spielen: https://www.specialeffect.org.uk/how-we-can-help/eyemine
 - OKGO: Weitere spiele wie Portal mit den Augen spielen: https://github.com/kmcnaught/OKGO
+- EyeWriter: Eine Zeichenapplikation: https://eyewriter.org/
