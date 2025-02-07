@@ -1,7 +1,7 @@
 # Pupil: Eine (etwas technische) Eye-Tracking-Software
 
 ![](/pupil.jpg "Ein Screenshot von der Eye-Tracking-Software 'Pupil'. Das Fenster von Pupil zeigt eine Nahaufnahme von einem Auge. Die Software scheint das Auge zu erkennen und entsprechende Markierungen zu platzieren. Das Bild macht einen hochtechnischen und komplizierten Eindruck.")
-*[© IFB-Stiftung](https://ifb-stiftung.de/), Logo von [Pupil](https://pupil-labs.com)*
+_[© IFB-Stiftung](https://ifb-stiftung.de/), Logo von [Pupil](https://pupil-labs.com)_
 
 - Webseite: https://github.com/pupil-labs/pupil
 - Typ: Software und Hardware, Tragbarer Eye-Tracker

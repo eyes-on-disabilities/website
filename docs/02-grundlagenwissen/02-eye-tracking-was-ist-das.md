@@ -1,7 +1,7 @@
 # Eye-Tracking: Was ist das, wie geht das?
 
 ![](/kosmonaut-with-eye-tracker-on-iss.jpg "Kosmonaut Sergei Krikaljow auf der ISS um 2005. Sergei hat einen tragbaren Eye-Tracker an seinem Kopf geschnallt. Der Eye-Tracker wirkt sehr klobig, aber stabil. Sergei schwebt in der Mitte des Raumes, umgeben von technischen Geräten.")
-*Kosmonaut Sergei Krikaljow mit einem tragbaren Eye-Tracker auf der ISS, um 2005. Foto von Chronos Vision GmbH auf [Wikipedia](https://commons.wikimedia.org/wiki/File:Eye_Tracking_Device_003.jpg) unter [GPL](http://www.gnu.org/licenses/gpl.html).*
+_Kosmonaut Sergei Krikaljow mit einem tragbaren Eye-Tracker auf der ISS, um 2005. Foto von Chronos Vision GmbH auf [Wikipedia](https://commons.wikimedia.org/wiki/File:Eye_Tracking_Device_003.jpg) unter [GPL](http://www.gnu.org/licenses/gpl.html)._
 
 Das [Eye-Tracking](https://de.wikipedia.org/wiki/Eye-Tracking) – zu Deutsch "Blickerfassung" – bezeichnet das Aufzeichnen der Blickrichtung.
 Dazu verwendete Kameras werden dabei auf den Kopf oder gar direkt auf das Auge ausgerichtet.
@@ -21,20 +21,20 @@ Für mehr Immersion können Spielerinnen und Spieler ihre Köpfe drehen, um sich
 ## Die drei Bereiche des Eye-Trackings: Aufzeichnung, Kalibrierung, Aktion {#areas-of-eye-tracking}
 
 ![](/3-areas.jpg "Eine Illustration zeigt die drei Bereiche des Eye-Trackings.")
-*Die drei Bereiche des Eye-Trackings: 1. Aufzeichnung, 2. Kalibrierung, 3. Aktion. [© IFB-Stiftung](https://ifb-stiftung.de/)*
+_Die drei Bereiche des Eye-Trackings: 1. Aufzeichnung, 2. Kalibrierung, 3. Aktion. [© IFB-Stiftung](https://ifb-stiftung.de/)_
 
 Wer sich mit Eye- und Head-Tracking beschäftigt, ist immer mit den folgenden drei Bereichen konfrontiert:
 
 1. Aufzeichnung: Hier ist zu klären, wie das Auge oder der Kopf aufgezeichnet werden sollen.
-  Wo befindet sich zum Beispiel die Kamera?
-  Werden zusätzliche Geräte benötigt?
-  Wie genau und fehleranfällig ist die Aufzeichnung?
-  Welche Software-Anwendung kann die Aufzeichnung weiterverarbeiten?
+   Wo befindet sich zum Beispiel die Kamera?
+   Werden zusätzliche Geräte benötigt?
+   Wie genau und fehleranfällig ist die Aufzeichnung?
+   Welche Software-Anwendung kann die Aufzeichnung weiterverarbeiten?
 2. Kalibrierung: Meistens muss ein Kalibrierungsschritt durchlaufen werden, damit die verwendete Software weiß, welcher Blickwinkel was bedeutet.
-  Beliebt ist die Kalibierung mit Punkten, die auf dem Bildschirm angezeigt und mit dem Blick fokussiert werden sollen.
-  Lediglich bei simplen Anwendungen, wo zum Beispiel nur die grobe Blickrichtung wie "links" und "rechts" geprüft wird, ist keine Kalibrierung notwendig.
+   Beliebt ist die Kalibierung mit Punkten, die auf dem Bildschirm angezeigt und mit dem Blick fokussiert werden sollen.
+   Lediglich bei simplen Anwendungen, wo zum Beispiel nur die grobe Blickrichtung wie "links" und "rechts" geprüft wird, ist keine Kalibrierung notwendig.
 3. Aktion: Sobald die Anwendung (nach einer Kalibierung) verstanden hat, welcher Blickwinkel was bedeutet, kann sie entsprechende Aktionen ausführen.
-  Zum Beispiel kann sie auf Basis des Blickwinkels den Mauszeiger bewegen, oder eine Sprachausgabe anstoßen.
+   Zum Beispiel kann sie auf Basis des Blickwinkels den Mauszeiger bewegen, oder eine Sprachausgabe anstoßen.
 
 ## Varianten der Aufzeichnung
 
@@ -56,7 +56,7 @@ Im Folgenden werden die verschiedenen Eye- und Head-Tracking-Verfahren mit ihren
 ### Tragbare Eye-Tracker {#wearable-based-eye-tracking}
 
 ![](/our-eye-tracking-glasses.jpg "Unser Eye-Tracking-Brillengestell in Nahaufnahme. Es handelt sich um ein Brillengestell mit einem 3D-gedruckten Ärmchen und einer Minikamera. Klebeband und Kabel lassen das Gestell wie einen Prototypen aussehen.")
-*Ein Tragbarer Eye-Tracker: Unser Eye-Tracking-Brillengestell. [© IFB-Stiftung](https://ifb-stiftung.de/)*
+_Ein Tragbarer Eye-Tracker: Unser Eye-Tracking-Brillengestell. [© IFB-Stiftung](https://ifb-stiftung.de/)_
 
 Tragbare Eye-Tracker werden am Kopf befestigt und sind häufig Brillen mit eingebauten Kameras.
 Die Kameras sind direkt vor dem Auge platziert und können somit sehr genaue Augenbewegungen aufnehmen.
@@ -64,7 +64,7 @@ Deshalb müssen die Kameras auch keine hohe Auflösung bieten: 0,5 Megapixel rei
 Lediglich eine große Brennweite sollten die Kamera aufweisen, um das gesamte Auge erfassen zu können.
 
 ![](/visible-and-ir-light.jpg "Ein zwei geteiltes Bild. Links zeigt ein Auge unter sichtbaren Licht. Rechts zeigt ein Auge unter Infrarotlicht.")
-*Links ein Auge unter normalen Licht, rechts eins unter Infrarotlicht. [© IFB-Stiftung](https://ifb-stiftung.de/)*
+_Links ein Auge unter normalen Licht, rechts eins unter Infrarotlicht. [© IFB-Stiftung](https://ifb-stiftung.de/)_
 
 Besonders beliebt ist die Nutzung von Infrarotkameras und -beleuchtung, mit welcher die Pupille deutlich klarer zu erkennen ist.
 Auch können dadurch die Eye-Tracker im Dunkeln verwendet werden.
@@ -77,7 +77,7 @@ Um zum Beispiel den Blick auf einen Bildschirm zu messen, muss entweder der Kopf
 ### Externe, bildschirmbasierte Eye-Tracker {#screen-based-eye-tracking}
 
 ![](/eye-tracker-external-webcam.jpg "Eine Webcam ist an einem Laptop-Bildschirm geklemmt.")
-*Eine Webcam kann als externes Eye-Tracking-Gerät ausreichen. Foto von Matheus Bertelli auf [Pexels](https://www.pexels.com/photo/modern-video-camera-hanging-on-display-of-laptop-7172701/)*
+_Eine Webcam kann als externes Eye-Tracking-Gerät ausreichen. Foto von Matheus Bertelli auf [Pexels](https://www.pexels.com/photo/modern-video-camera-hanging-on-display-of-laptop-7172701/)_
 
 Externe beziehungsweise bildschirmbasierte Eye-Tracker sind Geräte, die zum Beispiel auf einem Stativ oder am Bildschirm befestigt werden.
 Dabei muss das kein dazugekauftes Gerät sein: Die Webcam eines Laptops oder die Frontkamera des Smartphones kann bereits als externer Eye-Tracker dienen.
@@ -90,7 +90,7 @@ Die Kameras verfügen über eine höhere Auflösung und Infrarot-Leuchten, um au
 ### Head-Tracker {#head-tracking}
 
 ![](/head-tracking.jpg "Ein Screenshot von der Head-Tracking-Software 'AITrack'. Das AITrack-Fenster zeigt die Aufnahme einer Webcam. In der Aufnahme ist ein Gesicht zu sehen. Die Software scheint das Gesicht zu erkennen und entsprechende Markierungen zu platzieren.")
-*AITrack ist eine Head-Tracking-Software, die mit lediglich mit einer Webcam funktioniert. [© IFB-Stiftung](https://ifb-stiftung.de/)*
+_AITrack ist eine Head-Tracking-Software, die mit lediglich mit einer Webcam funktioniert. [© IFB-Stiftung](https://ifb-stiftung.de/)_
 
 Um die Kopfbewegung aufzuzeichnen gibt es mehrere Varianten.
 In den meisten Fällen befindet sich eine Kamera auf einem Stativ oder an einem Bildschirm befestigt und schaut auf dem Kopf.

@@ -10,15 +10,17 @@ Der Nachteil ist, dass aufgrund der Entfernung zum Auge die Blickrichtung nur be
 Auch sind die Lösungen anfällig für schlechte Lichtverhältnisse.
 
 ## Ich habe noch keinen Laptop oder Computer mit Webcam {#buying-a-laptop}
+
 Sollte ein Laptop mit eingebauter Webcam oder ein Computer mit separater Webcam noch nicht vorhanden sein, können sie als Gebrauchtgeräte günstig erworden werden.
 Ein gebrauchter Laptop oder Computer mit empfohlenen Anforderungen ist bereits für weniger als 200€ zu erwerben.
 
 ::: info Empfehlungen zum Laptop oder Computer
+
 - **Prozessor:** Intel Core i5 7200U @ 2,5 GHz
 - **Arbeitsspeicher:** 8GB
 - **Freier Speicherplatz:** 8GB
 - **Betriebssystem:** Windows 10
-:::
+  :::
 
 Zur Webcam haben wir keine gesonderten Anforderungen. Sollte nicht schon eine im Laptop verbaut sein ist eine 20€-Webcam vollkommen ausreichend.
 Wir empfehlen für Käufe den https://www.afbshop.de/, auf welchem aufbereitete, gebrauchte Geräte mit Garantie weiterverkauft werden.
@@ -27,15 +29,14 @@ Der Shop zeichnet sich nicht nur dadurch aus, dass durch dessen Arbeit tausende 
 ## Head-Tracking mit AITrack, Miranda und Optikey
 
 ::: info In Kürze
+
 - **Art des Trackings:** [Head-Tracking](/02-grundlagenwissen/02-eye-tracking-was-ist-das#head-tracking)
 - **Benötigte Geräte und Materialien:** Webcam (20€)
 - **Aufzeichnung:** [AITrack (kostenlos)](/04-software-und-hardware-im-detail/aitrack)
 - **Kalibrierung:** [Miranda (kostenlos)](/04-software-und-hardware-im-detail/miranda)
 - **Aktion:** [Optikey (kostenlos)](/04-software-und-hardware-im-detail/optikey)
-- **Anforderungen:**
-    - Eine Webcam muss vor dem Kopf platziert werden.
-    - Der Kopf muss wissentlich bewegt werden können.
-:::
+- **Anforderungen:** - Eine Webcam muss vor dem Kopf platziert werden. - Der Kopf muss wissentlich bewegt werden können.
+  :::
 
 In dieser Anleitung verwenden wir AITrack, Miranda und Optikey.
 AITrack ist eine kostenlose Software, die die Kopfbewegung aufzeichnet.
@@ -44,29 +45,27 @@ Miranda ist eine kostenlose Software, mit welcher Daten von Trackern in Bildschi
 Optikey ist eine kostenlose Bildschirmtastatur, die darauf ausgelegt ist, mit dem Blickrichtung oder der Kopfposition bedient zu werden.
 
 Die Anleitung:
+
 1. Richte deine Webcam in Richtung deines Kopfes.
    Der Kopf soll gänzlich zu sehen sein.
 2. Öffne AITrack und starte das Tracking. Das Programm sollte nun dein Gesicht zeigen.
 3. Öffne Miranda und währe dort die Data Source "Opentrack" aus. Der Haken "receive data from data source." sollte gesetzt sein.
-5. Starte eine Kalibrierung durch den Druck des Knopfes "re-calibrate".
-6. Führe die Kalibrierung durch, bis du zufrieden bist. Bestätige dann die Kalibrierung.
-7. Öffne OptiKey. Stelle sicher, dass als Quelle die Mausposition eingestellt ist. Das tust du in Optikeys Management-Konsole (ALT+M). Ob es funktioniert hat kannst du testen, indem du mit der Maus über die Buchstaben fährst. Wenn Optikey auf deine Maus reagiert, hat es funktioniert.
-8. In Miranda, wähle nun den Publisher "Mouse Position" aus. Dein Mauszeiger sollte nun deiner Kopfbewegung folgen. Du kannst nun mit deinem Kopf deine Maus bewegen.
-
+4. Starte eine Kalibrierung durch den Druck des Knopfes "re-calibrate".
+5. Führe die Kalibrierung durch, bis du zufrieden bist. Bestätige dann die Kalibrierung.
+6. Öffne OptiKey. Stelle sicher, dass als Quelle die Mausposition eingestellt ist. Das tust du in Optikeys Management-Konsole (ALT+M). Ob es funktioniert hat kannst du testen, indem du mit der Maus über die Buchstaben fährst. Wenn Optikey auf deine Maus reagiert, hat es funktioniert.
+7. In Miranda, wähle nun den Publisher "Mouse Position" aus. Dein Mauszeiger sollte nun deiner Kopfbewegung folgen. Du kannst nun mit deinem Kopf deine Maus bewegen.
 
 ## Head-Tracking mit ArUco Markern in Opentrack, Miranda und Optikey
 
 ::: info In Kürze
+
 - **Art des Trackings:** [Head-Tracking](/02-grundlagenwissen/02-eye-tracking-was-ist-das#head-tracking)
 - **Benötigte Geräte und Materialien:** Webcam (20€), Drucker um Marker zu drucken
 - **Aufzeichnung:** [Opentrack (kostenlos)](/04-software-und-hardware-im-detail/opentrack)
 - **Kalibrierung:** [Miranda (kostenlos)](/04-software-und-hardware-im-detail/miranda)
 - **Aktion:** [Optikey (kostenlos)](/04-software-und-hardware-im-detail/optikey)
-- **Anforderungen:**
-    - Eine Webcam muss vor dem Kopf platziert werden.
-    - Es wird ein Drucker benötigt, um die ArUco Marker zu drucken.
-    - Der Kopf muss wissentlich bewegt werden können.
-:::
+- **Anforderungen:** - Eine Webcam muss vor dem Kopf platziert werden. - Es wird ein Drucker benötigt, um die ArUco Marker zu drucken. - Der Kopf muss wissentlich bewegt werden können.
+  :::
 
 In dieser Anleitung verwenden wir Opentrack, Miranda und Optikey.
 Opentrack ist eine kostenlose Software, die Head- und Eye-Tracker-Daten aufnehmen, verändern und weitergeben kann.
@@ -76,29 +75,30 @@ Miranda ist eine kostenlose Software, mit welcher Daten von Trackern in Bildschi
 Optikey ist eine kostenlose Bildschirmtastatur, die darauf ausgelegt ist, mit dem Blickrichtung oder der Kopfposition bedient zu werden.
 
 Die Anleitung:
+
 1. Drucke auf Papier einen ArUco-Marker. Die Größe DIN A6 ist ausreichend: https://raw.githubusercontent.com/opentrack/opentrack/refs/heads/unstable/contrib/aruco/test3.png
 2. Befestige den Marker an deinem Kopf, zum Beispiel mit einem Tesafilm an der Brille oder mit einem Stirnband. (Stelle dich darauf ein, dass du den Marker im Nachhinein nochmal um 90 Grad rotieren musst.)
 3. Richte deine Webcam in Richtung deines Kopfes.
    Der Marker muss jederzeit gänzlich von der Webcam sichtbar sein.
 4. Öffne Opentrack, wähle "ArUco" als Quelle aus, und starte das Tracking. Schau, ob sich das Tintenfisch-Logo korrekt wie dein Kopf bewegt.
-3. Öffne Miranda und währe dort die Data Source "Opentrack" aus. Der Haken "receive data from data source." sollte gesetzt sein.
-5. Starte eine Kalibrierung durch den Druck des Knopfes "re-calibrate".
-6. Führe die Kalibrierung durch, bis du zufrieden bist. Bestätige dann die Kalibrierung.
-7. Öffne OptiKey. Stelle sicher, dass als Quelle die Mausposition eingestellt ist. Das tust du in Optikeys Management-Konsole (ALT+M). Ob es funktioniert hat kannst du testen, indem du mit der Maus über die Buchstaben fährst. Wenn Optikey auf deine Maus reagiert, hat es funktioniert.
-8. In Miranda, wähle nun den Publisher "Mouse Position" aus. Dein Mauszeiger sollte nun deiner Kopfbewegung folgen. Du kannst nun mit deinem Kopf deine Maus bewegen.
+5. Öffne Miranda und währe dort die Data Source "Opentrack" aus. Der Haken "receive data from data source." sollte gesetzt sein.
+6. Starte eine Kalibrierung durch den Druck des Knopfes "re-calibrate".
+7. Führe die Kalibrierung durch, bis du zufrieden bist. Bestätige dann die Kalibrierung.
+8. Öffne OptiKey. Stelle sicher, dass als Quelle die Mausposition eingestellt ist. Das tust du in Optikeys Management-Konsole (ALT+M). Ob es funktioniert hat kannst du testen, indem du mit der Maus über die Buchstaben fährst. Wenn Optikey auf deine Maus reagiert, hat es funktioniert.
+9. In Miranda, wähle nun den Publisher "Mouse Position" aus. Dein Mauszeiger sollte nun deiner Kopfbewegung folgen. Du kannst nun mit deinem Kopf deine Maus bewegen.
 
 ## Eye-Tracking mit dem Beam Eye-Tracker und Optikey
 
 ::: info In Kürze
+
 - **Art des Trackings:** [externes Eye-Tracking](/02-grundlagenwissen/02-eye-tracking-was-ist-das#screen-based-eye-tracking)
 - **Benötigte Geräte und Materialien:** Webcam (20€)
 - **Aufzeichnung:** [Beam Eye-Tracker (2 Stunden kostenlose Testversion, dann einmalig 30€)](/04-software-und-hardware-im-detail/beam)
 - **Kalibrierung:** Im Beam Eye-Tracker enthalten
 - **Aktion:** [Optikey (kostenlos)](/04-software-und-hardware-im-detail/optikey)
-- **Anforderungen:**
-    - Eine Webcam muss vor dem Gesicht platziert werden.
-      Je klarer die Augen erkennbar sind, umso besser.
-:::
+- **Anforderungen:** - Eine Webcam muss vor dem Gesicht platziert werden.
+  Je klarer die Augen erkennbar sind, umso besser.
+  :::
 
 In dieser Anleitung verwenden wir den Beam Eye-Tracker und Optikey.
 Beam ist eine kostenpflichtige Software, die mithilfe der Webcam die Augenbewegung aufzeichnet.
@@ -106,6 +106,7 @@ Die Kalibrierung der Augenbewegung an den Bildschirm wird ebenso über Beam gel�
 Optikey ist eine kostenlose Bildschirmtastatur, die darauf ausgelegt ist, mit dem Blickrichtung oder der Kopfposition bedient zu werden.
 
 Die Anleitung:
+
 1. Richte deine Webcam auf dein Gesicht.
    Die Augen sollten klar erkennbar sein.
    Für ein noch besseres Tracking-Ergebnis bringe die Webcam näher an dein Gesicht.

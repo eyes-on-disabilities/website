@@ -1,7 +1,7 @@
 # ALS und andere Motoneuron-Krankheiten
 
 ![](/als-patient-with-communication-board.jpg "Ein Mensch mit ALS trägt ein Brillengestell mit einem Laserpointer. Der Laserpointer ist auf eine Tafel mit Buchstaben – eine Kommunikationstafel – gerichtet.")
-*Ein Mensch mit ALS trägt ein Brillengestell mit einem Laserpointer. Der Laserpointer ist auf eine Tafel mit Buchstaben – eine Kommunikationstafel – gerichtet. Foto von Fezcat auf [Wikipedia](https://commons.wikimedia.org/wiki/File:Using_a_head_mounted_laser_to_point_to_a_communication_board.jpg) unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)*
+_Ein Mensch mit ALS trägt ein Brillengestell mit einem Laserpointer. Der Laserpointer ist auf eine Tafel mit Buchstaben – eine Kommunikationstafel – gerichtet. Foto von Fezcat auf [Wikipedia](https://commons.wikimedia.org/wiki/File:Using_a_head_mounted_laser_to_point_to_a_communication_board.jpg) unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)_
 
 In diesem Kapitel wird beschrieben, was Motoneuron-Krankheiten sind, mit welchen Herausforderungen Betroffene zu kämpfen haben, und inwieweit Eye-Tracking-Systeme helfen können.
 
@@ -39,7 +39,7 @@ Nur so kann ein würdiges Leben trotz der Krankheit ermöglicht werden.
 [Eye- und Head-Tracking](https://de.wikipedia.org/wiki/Eye-Tracking) sind Technologien, die Bewegungen der Augen oder des Kopfes erfassen, um Geräte wie Computer oder Kommunikationshilfen zu steuern.
 Diese Systeme sind besonders für Betroffene von Motoneuron-Krankheiten von großer Bedeutung.
 Sie ermöglichen es, trotz Lähmungen interaktiv zu bleiben und sich auszudrücken.
-Besonders bei MND-Betroffenen bleibt die Augenbewegung oft bis spät in der Krankheit erhalten. 
+Besonders bei MND-Betroffenen bleibt die Augenbewegung oft bis spät in der Krankheit erhalten.
 Zum Beispiel erlaubt diese Technologie es, durch bloßes Hinsehen Texte zu schreiben, computergenerierte Sprache auszugeben oder gar den gesamten Computer zu bedienen.
 
 Diese Technologien ermöglichen nicht nur die Kommunikation mit Angehörigen oder Pflegekräften, sondern auch die Teilnahme an digitalen und sozialen Aktivitäten.

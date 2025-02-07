@@ -1,7 +1,7 @@
 # Optikey: Die Bildschirmtastatur
 
 ![](/optikey.jpg "Ein Screenshot von der Bildschirmtastatur-Software 'Optikey'. Auf der oberen Hälfte des Bildschirms ist eine Tastatur abgebildet, auf die gerade getippt wird.")
-*[© IFB-Stiftung](https://ifb-stiftung.de/), Logo von [Optikey](https://www.optikey.org/)*
+_[© IFB-Stiftung](https://ifb-stiftung.de/), Logo von [Optikey](https://www.optikey.org/)_
 
 - Webseite: https://optikey.org/
 - Typ: Software, Bildschirmtastatur
