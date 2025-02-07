@@ -74,13 +74,12 @@ Deshalb sollte die Art und Stärke der Infrarotbeleuchtung sowie der Abstand zum
 Da tragbare Eye-Tracker nur das Auge aber nicht die Kopfbewegung aufzeichnen, können sie allein nur für manche Anwendungen eingesetzt werden.
 Um zum Beispiel den Blick auf einen Bildschirm zu messen, muss entweder der Kopf still gehalten oder zusätzlich ein Head-Tracking-System eingesetzt werden.
 
-### Externe (bildschirmbasierte) Eye-Tracker {#screen-based-eye-tracking}
+### Externe, bildschirmbasierte Eye-Tracker {#screen-based-eye-tracking}
 
 ![](/eye-tracker-external-webcam.jpg "Eine Webcam ist an einem Laptop-Bildschirm geklemmt.")
 *Eine Webcam kann als externes Eye-Tracking-Gerät ausreichen. Foto von Matheus Bertelli auf [Pexels](https://www.pexels.com/photo/modern-video-camera-hanging-on-display-of-laptop-7172701/)*
 
-Externe Eye-Tracker sind Geräte, die zum Beispiel auf einem Stativ oder am Bildschirm befestigt werden.
-Deshalb werden diese Eye-Tracker auch "bildschirmbasierte" Eye-Tracker genannt.
+Externe beziehungsweise bildschirmbasierte Eye-Tracker sind Geräte, die zum Beispiel auf einem Stativ oder am Bildschirm befestigt werden.
 Dabei muss das kein dazugekauftes Gerät sein: Die Webcam eines Laptops oder die Frontkamera des Smartphones kann bereits als externer Eye-Tracker dienen.
 Aufgrund des Abstandes kann sowohl der Kopf als auch die Augen aufgezeichnet werden, wodurch sich ohne Extrakosten bereits ein Eye- und Head-Tracking-System aufsetzen lässt.
 Der Abstand zwischen der Kamera und dem Auge wirkt sich jedoch negativ auf die Genauigkeit aus.
