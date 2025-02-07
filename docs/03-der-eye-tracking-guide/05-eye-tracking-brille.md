@@ -15,8 +15,8 @@ Es ist mit gravierenden Änderungen in den nächsten Wochen und Monaten zu rechn
 Zum aktuellen Zeitpunkt können wir die Risiken von Infrarotstrahlung am Auge noch nicht genau einschätzen.
 Wir stellen aktuell Recherchen an und werden die Ergebnisse alsbald veröffentlichen.
 
-Ob mit oder ohne unseren Ergebnissen: Wir möchten euch ermutigen, euch selbst ein Bild vom Risikopotenzial zu machen.
-Im Kapitel [Sicherheit bei Infrarotstrahlen](/07-wiki/infrarot-sicherheit) findet ihr den aktuellen Stand unserer Recherchen, sowie alle Quellen, die wir benutzen.
+Ob mit oder ohne unseren Ergebnissen: Wir möchten dich dazu ermutigen, dir selbst ein Bild vom Risikopotenzial zu machen.
+Im Kapitel [Sicherheit bei Infrarotstrahlen](/07-wiki/infrarot-sicherheit) findest du den aktuellen Stand unserer Recherchen, sowie alle Quellen, die wir benutzen.
 :::
 
 ## Funktionsweise
