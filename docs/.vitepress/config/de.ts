@@ -1,7 +1,8 @@
 import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
-export default defineConfig({
+export const de = defineConfig({
+    lang: 'de-DE',
     title: "Eyes on (Dis)Abilities",
     description: "Günstige Eye-Tracking-Lösungen für mehr Teilhabe",
     themeConfig: {
@@ -21,10 +22,10 @@ export default defineConfig({
             {
                 text: "Einführung",
                 items: [
-                    { text: "Willkommen", link: "/01-einfuehrung/01-willkommen" },
+                    { text: "Willkommen", link: "/de/de/de/01-einfuehrung/01-willkommen" },
                     {
                         text: "Was dich erwartet",
-                        link: "/01-einfuehrung/02-was-dich-erwartet",
+                        link: "/de/de/de/01-einfuehrung/02-was-dich-erwartet",
                     },
                 ],
             },
@@ -44,7 +45,7 @@ export default defineConfig({
             {
                 text: "Der Eye-Tracking-Guide",
                 items: [
-                    { text: "Einführung", link: "/03-der-eye-tracking-guide/01-einfuehrung" },
+                    { text: "Einführung", link: "/03-der-eye-tracking-guide/de/de/de/01-einfuehrung" },
                     {
                         text: "Kommunikationstafeln",
                         link: "/03-der-eye-tracking-guide/02-kommunikationstafeln",
