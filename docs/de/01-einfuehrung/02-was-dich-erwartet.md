@@ -12,7 +12,7 @@ Dabei gibt es leider nicht die eine Lösung, die für jede Situation funktionier
 Nicht nur ist jeder Mensch unterschiedlich, sondern auch die Umwelteinflüsse – wie die Lichtverhältnisse – spielen eine Rolle.
 Deshalb wirst du leider etwas experimentieren müssen, welche Lösung für dich passt.
 Jedoch haben wir uns große Mühe gegeben, Software, Hardware und unser Wissen so zugänglich wie möglich zu gestalten.
-Solltest du dennoch Fragen oder Anregungen haben, [zögere nicht uns zu kontaktieren](/06-sonstiges/kontakt).
+Solltest du dennoch Fragen oder Anregungen haben, [zögere nicht uns zu kontaktieren](/de/06-sonstiges/kontakt).
 
 ## Aufbau der Kapitel
 

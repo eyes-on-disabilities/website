@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: Jetzt loslegen
-      link: /01-einfuehrung/01-willkommen.html
+      link: /de/01-einfuehrung/01-willkommen.html
     #- theme: alt
     #  text: API Examples
     #  link: /api-examples

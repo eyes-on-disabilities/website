@@ -9,4 +9,4 @@ Vielleicht hast du alles, was du brauchst, bereits bei dir zu Hause.
 Dabei wirst du leider etwas experimentieren müssen.
 Nicht jede Lösung eignet ich für jeden Menschen und für jedes Umfeld.
 Jedoch haben wir uns große Mühe gegeben, Software, Hardware und unser Wissen so zugänglich wie möglich zu gestalten.
-Solltest du dennoch Fragen oder Anregungen haben, [zögere nicht uns zu kontaktieren](/06-sonstiges/kontakt).
+Solltest du dennoch Fragen oder Anregungen haben, [zögere nicht uns zu kontaktieren](/de/06-sonstiges/kontakt).

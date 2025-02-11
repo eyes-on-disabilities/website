@@ -3,7 +3,7 @@
 ![](/beam.jpg "Ein Screenshot von der Eye-Tracking-Software 'Beam'. Ein Windows-Bildschirm ist zusehen, zusammen mit einem runden, halbdurchsichtigen Kreis in der Bildschirmmitte, sowie dem Beam-Fenster rechts. Das Beam-Fenster zweit einige wenige Einstellungsmöglichkeiten sowie einen Indikator, dass gerade aufgezeichnet wird. Der Kreis zeigt, wo eine Person gerade auf den Bildschirm schaut.")
 _[© IFB-Stiftung](https://ifb-stiftung.de/), Logo von [Beam](https://beam.eyeware.tech/)_
 
-- Typ: Software, [externes Eye-Tracking](/02-grundlagenwissen/02-eye-tracking-was-ist-das#screen-based-eye-tracking) und [Head-Tracking](/02-grundlagenwissen/02-eye-tracking-was-ist-das#head-tracking)
+- Typ: Software, [externes Eye-Tracking](/de/02-grundlagenwissen/02-eye-tracking-was-ist-das#screen-based-eye-tracking) und [Head-Tracking](/de/02-grundlagenwissen/02-eye-tracking-was-ist-das#head-tracking)
 - Kosten: 2 Stunden kostenlose Testversion auf [Steam](https://store.steampowered.com/app/2375780/?utm_source=beam_page&utm_medium=menu_icon), danach einmalig 28,99€
 - Lizenz: proprietär
 
