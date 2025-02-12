@@ -1,7 +1,7 @@
 # Eye-Tracking: What is it, how does it work?
 
-![](/kosmonaut-with-eye-tracker-on-iss.jpg "Cosmonaut Sergei Krikaljow on the ISS around 2005. Sergei has a portable eye tracker strapped to his head. The eye tracker looks bulky but stable. Sergei is floating in the middle of the room surrounded by technical equipment.")
-_Cosmonaut Sergei Krikaljow with a portable eye tracker on the ISS, around 2005. Photo by Chronos Vision GmbH on [Wikipedia](https://commons.wikimedia.org/wiki/File:Eye_Tracking_Device_003.jpg) under [GPL](http://www.gnu.org/licenses/gpl.html)._
+![](/kosmonaut-with-eye-tracker-on-iss.jpg "Cosmonaut Sergei Krikaljow on the ISS around 2005. Sergei has a portable eye-tracker strapped to his head. The eye tracker looks bulky but stable. Sergei is floating in the middle of the room surrounded by technical equipment.")
+_Cosmonaut Sergei Krikaljow with a portable eye-tracker on the ISS, around 2005. Photo by Chronos Vision GmbH on [Wikipedia](https://commons.wikimedia.org/wiki/File:Eye_Tracking_Device_003.jpg) under [GPL](http://www.gnu.org/licenses/gpl.html)._
 
 [Eye-Tracking](https://en.wikipedia.org/wiki/Eye_tracking) refers to the recording of the gaze direction.
 Cameras used for this purpose are directed at the head or even directly at the eye.
@@ -53,7 +53,7 @@ A laptop with a webcam can be turned into a full-featured system with a speech a
 And if that’s not enough, specialized devices can be added to the system for a low cost.
 The following sections explore various eye- and head-tracking methods, along with their pros and cons.
 
-### Wearable Eye Trackers {#wearable-based-eye-tracking}
+### Wearable Eye-Trackers {#wearable-based-eye-tracking}
 
 ![](/our-eye-tracking-glasses.jpg "Our eye-tracking glasses frame in close-up. It is a glasses frame with a 3D-printed arm and a mini camera. Tape and cables make the frame look like a prototype.")
 _A wearable eye-tracker: Our eye-tracking glasses frame. [© IFB-Stiftung](https://ifb-stiftung.de/)_
@@ -74,7 +74,7 @@ Therefore, the type and intensity of the infrared lighting, as well as the dista
 Since wearable eye-trackers only record the eye and not head movement, they can only be used for certain applications on their own.
 For example, to track the gaze on a screen, the head must either remain still or a head-tracking system must be used in addition.
 
-### External, Screen-Based Eye Trackers {#screen-based-eye-tracking}
+### External, Screen-Based Eye-Trackers {#screen-based-eye-tracking}
 
 ![](/eye-tracker-external-webcam.jpg "A webcam is clipped to a laptop screen.")
 _A webcam can serve as an external eye-tracking device. Photo by Matheus Bertelli on [Pexels](https://www.pexels.com/photo/modern-video-camera-hanging-on-display-of-laptop-7172701/)_
@@ -87,7 +87,7 @@ Poor lighting conditions also have a greater impact on the tracking result.
 Therefore, companies offer optimized cameras for sale that can be mounted on the screen.
 These cameras have higher resolution and infrared lights to provide good tracking results even in low light conditions.
 
-### Head Trackers {#head-tracking}
+### Head-Trackers {#head-tracking}
 
 ![](/head-tracking.jpg "A screenshot of the head-tracking software 'AITrack'. The AITrack window shows a webcam recording. In the recording, a face is visible. The software seems to recognize the face and place markers accordingly.")
 _AITrack is head-tracking software that works with just a webcam. [© IFB-Stiftung](https://ifb-stiftung.de/)_

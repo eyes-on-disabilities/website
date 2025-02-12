@@ -8,6 +8,10 @@ _[© IFB-Stiftung](https://ifb-stiftung.de/), Logo by [AITrack](https://github.c
 - Cost: Free
 - License: Open-Source (MIT)
 
-AITrack is a head-tracking software that accurately detects head movements using just a regular webcam, without the need for additional hardware. It performs reliably even under poor lighting conditions or when the face is partially obscured, for example, by glasses. It has low system requirements, allowing it to run smoothly on older computers.
+AITrack is a head-tracking software that accurately detects head movements using just a regular webcam, without the need for additional hardware.
+It performs reliably even under poor lighting conditions or when the face is partially obscured, for example, by glasses.
+It has low system requirements, allowing it to run smoothly on older computers.
 
-For added flexibility, AITrack can be operated on a secondary device, such as a laptop, to send tracking data to the main computer. If no webcam is available, a smartphone can be used as the camera via the [Droid Cam App](https://play.google.com/store/apps/details?id=com.dev47apps.droidcam). AITrack can serve as an input for [Opentrack](/04-software-and-hardware-in-detail/opentrack).
+For added flexibility, AITrack can be operated on a secondary device, such as a laptop, to send tracking data to the main computer.
+If no webcam is available, a smartphone can be used as the camera via the [Droid Cam App](https://play.google.com/store/apps/details?id=com.dev47apps.droidcam).
+AITrack can serve as an input for [Opentrack](/04-software-and-hardware-in-detail/opentrack).

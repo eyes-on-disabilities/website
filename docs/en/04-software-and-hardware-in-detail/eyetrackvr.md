@@ -8,6 +8,8 @@ _[© IFB-Stiftung](https://ifb-stiftung.de/), Logo by [EyeTrackVR](https://docs.
 - Cost: Software is free. Hardware ~$25, plus ~$10 for a camera
 - License: Open-Source (GPL-3.0)
 
-_EyeTrackVR_ offers both software and hardware, along with detailed assembly instructions for creating an eye-tracking system. Using cost-effective infrared cameras and lights, it meets many of the requirements for wearable eye tracking.
+_EyeTrackVR_ offers both software and hardware, along with detailed assembly instructions for creating an eye-tracking system.
+Using cost-effective infrared cameras and lights, it meets many of the requirements for wearable eye-tracking.
 
-The project is well-documented and provides an affordable way to experiment with eye-tracking technology. We see great potential in this initiative and look forward to exploring it further and adapting it for our audience's needs.
+The project is well-documented and provides an affordable way to experiment with eye-tracking technology.
+We see great potential in this initiative and look forward to exploring it further and adapting it for our audience's needs.

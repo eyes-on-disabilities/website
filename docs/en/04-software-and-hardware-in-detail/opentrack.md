@@ -8,4 +8,5 @@ _[© IFB-Stiftung](https://ifb-stiftung.de/), Logo from [OpenTrack](https://gith
 - Cost: Free
 - License: Open-Source (ISC License, except for some trackers with proprietary licenses)
 
-OpenTrack is a software that connects a wide range of input devices for head and eye tracking with output devices. Some trackers are directly integrated into OpenTrack and require no additional software, such as [tracking with printable codes](https://github.com/opentrack/opentrack/wiki/Aruco-tracker).
+OpenTrack is a software that connects a wide range of input devices for head- and eye-tracking with output devices.
+Some trackers are directly integrated into OpenTrack and require no additional software, such as [tracking with printable codes](https://github.com/opentrack/opentrack/wiki/Aruco-tracker).

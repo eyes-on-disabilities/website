@@ -5,7 +5,7 @@ _A person with ALS wears a spectacle frame with a laser pointer. The laser point
 
 This chapter describes what motor neuron diseases are, the challenges faced by those affected and the extent to which eye-tracking systems can help.
 
-## Motor neuron diseases: Progressive loss of body control
+## Motor Neuron Diseases: Progressive Loss of Body Control
 
 [Motor neuron diseases (MND)](https://en.wikipedia.org/wiki/Motor_neuron_diseases) are neurological disorders that affect the nerve cells responsible for controlling muscle movement.
 They lead to a progressive degeneration of the so-called [motor neurons](https://en.wikipedia.org/wiki/Motor_neuron), which can result in muscle weakness, paralysis and ultimately the loss of basic physical functions such as speaking, swallowing and breathing.
@@ -34,7 +34,7 @@ Care for people with MND must therefore go far beyond medical treatment.
 Technological and, above all, social support is needed to maintain their communication for as long as possible and ensure their participation in social life.
 This is the only way to enable a dignified life despite the disease.
 
-## Eye and head tracking as an aid to communication
+## Eye- and Head-Tracking as an Aid to Communication
 
 [Eye and head tracking](https://en.wikipedia.org/wiki/Eye_tracking) are technologies that record movements of the eyes or head in order to control devices such as computers or communication aids.
 These systems are particularly important for people affected by motor neuron disease.

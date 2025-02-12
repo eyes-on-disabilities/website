@@ -1,4 +1,4 @@
-# The eye tracking guide
+# The Eye-Tracking Guide
 
 In this chapter, we will find your optimal eye-tracking solution.
 We start with the simplest solutions such as pen and paper, then work our way through inexpensive or even free software and hardware, and finish with ready-made complete solutions from major manufacturers.

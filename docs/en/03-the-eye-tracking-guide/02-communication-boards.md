@@ -1,4 +1,4 @@
-# With pen and paper: communication boards
+# With Pen and Paper: Communication Boards
 
 ![](/als-patient-with-communication-board.jpg "A person with ALS wears a pair of glasses with a laser pointer. The laser pointer is pointed at a board with letters - a communication board.")
 _A person with ALS wears a spectacle frame with a laser pointer. The laser pointer is pointed at a board with letters - a communication board. Photo by Fezcat on [Wikipedia](https://commons.wikimedia.org/wiki/File:Using_a_head_mounted_laser_to_point_to_a_communication_board.jpg) under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)._

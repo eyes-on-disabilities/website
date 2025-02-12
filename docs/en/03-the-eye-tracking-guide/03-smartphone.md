@@ -1,6 +1,6 @@
 # Smartphone
 
-Smartphones are very suitable for use as simple eye trackers due to their availability and low weight.
+Smartphones are very suitable for use as simple eye-trackers due to their availability and low weight.
 
 ## Android
 

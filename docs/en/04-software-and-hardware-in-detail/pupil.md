@@ -8,4 +8,5 @@ _[© IFB-Stiftung](https://ifb-stiftung.de/), Logo from [Pupil](https://pupil-la
 - Cost: Software is free. Hardware must be built.
 - License: Open-Source (LGPL-3.0, GPL-3.0)
 
-Pupil is an eye-tracking software that requires a camera, ideally an infrared camera, placed in front of the eye. The software’s technical user interface presents a steep learning curve, but those who push through it can achieve highly reliable tracking results.
+Pupil is an eye-tracking software that requires a camera, ideally an infrared camera, placed in front of the eye.
+The software’s technical user interface presents a steep learning curve, but those who push through it can achieve highly reliable tracking results.
