@@ -4,7 +4,7 @@ In diesem Kapitel wird gezeigt, welche Lösung bereits existieren, die nur einen
 
 ## Funktionsweise
 
-Bei allen in diesem Kapitel genannten Lösungen handelt es sich um [externe Eye-Tracking-](/de/02-grundlagenwissen/02-eye-tracking-was-ist-das#screen-based-eye-tracking) beziehungsweise [Head-Tracking-Lösungen](/de/02-grundlagenwissen/02-eye-tracking-was-ist-das#head-tracking): eine Webcam wird an einem Bildschirm oder auf einem Stativ befestigt und frontal auf Kopf oder auf das Gesicht gerichtet.
+Bei allen in diesem Kapitel genannten Lösungen handelt es sich um [externe Eye-Tracking-](/de/02-basic-knowledge/02-eye-tracking-what-is-this#screen-based-eye-tracking) beziehungsweise [Head-Tracking-Lösungen](/de/02-basic-knowledge/02-eye-tracking-what-is-this#head-tracking): eine Webcam wird an einem Bildschirm oder auf einem Stativ befestigt und frontal auf Kopf oder auf das Gesicht gerichtet.
 Der Vorteil dieser Lösungen ist der simple Aufbau, und dass viele Haushalte bereits die geforderten Geräte besitzen.
 Der Nachteil ist, dass aufgrund der Entfernung zum Auge die Blickrichtung nur bedingt gut aufgezeichnet werden kann.
 Auch sind die Lösungen anfällig für schlechte Lichtverhältnisse.
@@ -31,11 +31,11 @@ Der Shop zeichnet sich nicht nur dadurch aus, dass durch dessen Arbeit tausende 
 
 ::: info In Kürze
 
-- **Art des Trackings:** [Head-Tracking](/de/02-grundlagenwissen/02-eye-tracking-was-ist-das#head-tracking)
+- **Art des Trackings:** [Head-Tracking](/de/02-basic-knowledge/02-eye-tracking-what-is-this#head-tracking)
 - **Benötigte Geräte und Materialien:** Webcam (20€)
-- **Aufzeichnung:** [AITrack (kostenlos)](/de/04-software-und-hardware-im-detail/aitrack)
-- **Kalibrierung:** [Miranda (kostenlos)](/de/04-software-und-hardware-im-detail/miranda)
-- **Aktion:** [Optikey (kostenlos)](/de/04-software-und-hardware-im-detail/optikey)
+- **Aufzeichnung:** [AITrack (kostenlos)](/de/04-software-and-hardware-in-detail/aitrack)
+- **Kalibrierung:** [Miranda (kostenlos)](/de/04-software-and-hardware-in-detail/miranda)
+- **Aktion:** [Optikey (kostenlos)](/de/04-software-and-hardware-in-detail/optikey)
 - **Anforderungen:**
   - Eine Webcam muss vor dem Kopf platziert werden.
   - Der Kopf muss wissentlich bewegt werden können.
@@ -63,11 +63,11 @@ Die Anleitung:
 
 ::: info In Kürze
 
-- **Art des Trackings:** [Head-Tracking](/de/02-grundlagenwissen/02-eye-tracking-was-ist-das#head-tracking)
+- **Art des Trackings:** [Head-Tracking](/de/02-basic-knowledge/02-eye-tracking-what-is-this#head-tracking)
 - **Benötigte Geräte und Materialien:** Webcam (20€), Drucker um Marker zu drucken
-- **Aufzeichnung:** [Opentrack (kostenlos)](/de/04-software-und-hardware-im-detail/opentrack)
-- **Kalibrierung:** [Miranda (kostenlos)](/de/04-software-und-hardware-im-detail/miranda)
-- **Aktion:** [Optikey (kostenlos)](/de/04-software-und-hardware-im-detail/optikey)
+- **Aufzeichnung:** [Opentrack (kostenlos)](/de/04-software-and-hardware-in-detail/opentrack)
+- **Kalibrierung:** [Miranda (kostenlos)](/de/04-software-and-hardware-in-detail/miranda)
+- **Aktion:** [Optikey (kostenlos)](/de/04-software-and-hardware-in-detail/optikey)
 - **Anforderungen:**
   - Eine Webcam muss vor dem Kopf platziert werden.
   - Es wird ein Drucker benötigt, um die ArUco Marker zu drucken.
@@ -99,11 +99,11 @@ Die Anleitung:
 
 ::: info In Kürze
 
-- **Art des Trackings:** [externes Eye-Tracking](/de/02-grundlagenwissen/02-eye-tracking-was-ist-das#screen-based-eye-tracking)
+- **Art des Trackings:** [externes Eye-Tracking](/de/02-basic-knowledge/02-eye-tracking-what-is-this#screen-based-eye-tracking)
 - **Benötigte Geräte und Materialien:** Webcam (20€)
-- **Aufzeichnung:** [Beam Eye-Tracker (2 Stunden kostenlose Testversion, dann einmalig 30€)](/de/04-software-und-hardware-im-detail/beam)
+- **Aufzeichnung:** [Beam Eye-Tracker (2 Stunden kostenlose Testversion, dann einmalig 30€)](/de/04-software-and-hardware-in-detail/beam)
 - **Kalibrierung:** Im Beam Eye-Tracker enthalten
-- **Aktion:** [Optikey (kostenlos)](/de/04-software-und-hardware-im-detail/optikey)
+- **Aktion:** [Optikey (kostenlos)](/de/04-software-and-hardware-in-detail/optikey)
 - **Anforderungen:**
   - Eine Webcam muss vor dem Gesicht platziert werden.
     Je klarer die Augen erkennbar sind, umso besser.

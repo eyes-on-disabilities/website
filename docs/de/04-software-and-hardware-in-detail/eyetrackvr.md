@@ -4,7 +4,7 @@
 _[© IFB-Stiftung](https://ifb-stiftung.de/), Logo von [EyeTrackVR](https://docs.eyetrackvr.dev/)_
 
 - Webseite: https://docs.eyetrackvr.dev/
-- Typ: Software und Hardware, [tragbares Eye-Tracking](/de/02-grundlagenwissen/02-eye-tracking-was-ist-das#wearable-based-eye-tracking)
+- Typ: Software und Hardware, [tragbares Eye-Tracking](/de/02-basic-knowledge/02-eye-tracking-what-is-this#wearable-based-eye-tracking)
 - Kosten: Software ist kostenlos. Hardware ~25€, plus ~10€ für Kamera
 - Lizenz: Open-Source (GPL-3.0)
 

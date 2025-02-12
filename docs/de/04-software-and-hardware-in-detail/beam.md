@@ -4,7 +4,7 @@
 _[© IFB-Stiftung](https://ifb-stiftung.de/), Logo von [Beam](https://beam.eyeware.tech/)_
 
 - Webseite: https://beam.eyeware.tech/
-- Typ: Software, [externes Eye-Tracking](/de/02-grundlagenwissen/02-eye-tracking-was-ist-das#screen-based-eye-tracking) und [Head-Tracking](/de/02-grundlagenwissen/02-eye-tracking-was-ist-das#head-tracking)
+- Typ: Software, [externes Eye-Tracking](/de/02-basic-knowledge/02-eye-tracking-what-is-this#screen-based-eye-tracking) und [Head-Tracking](/de/02-basic-knowledge/02-eye-tracking-what-is-this#head-tracking)
 - Kosten: 2 Stunden kostenlose Testversion auf [Steam](https://store.steampowered.com/app/2375780/?utm_source=beam_page&utm_medium=menu_icon), danach einmalig 28,99€
 - Lizenz: proprietär
 

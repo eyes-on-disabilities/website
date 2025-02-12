@@ -19,7 +19,7 @@ Durch Muskellähmungen verlieren Betroffene häufig die Fähigkeit zu sprechen o
 Im späteren Verlauf bleibt oft nur die bewusste Augenbewegung übrig.
 
 Betroffene und Angehörige müssen nun kreativ werden.
-Kommunikation ist zum Beispiel über Ja-Nein-Fragen mit Blinzeln oder mit [Kommunikationstafeln](/de/03-der-eye-tracking-guide/02-kommunikationstafeln) möglich.
+Kommunikation ist zum Beispiel über Ja-Nein-Fragen mit Blinzeln oder mit [Kommunikationstafeln](/de/03-the-eye-tracking-guide/02-communication-boards) möglich.
 Dies erfordert jedoch Zeit und Geduld aller Beteiligten.
 Pflegepersonal, das ohnehin stark belastet ist, kann diese Zeit oft nicht aufbringen.
 Kommunikation muss unter Zeitdruck auf das Nötigste reduziert werden.

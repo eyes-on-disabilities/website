@@ -16,7 +16,7 @@ Zum aktuellen Zeitpunkt können wir die Risiken von Infrarotstrahlung am Auge no
 Wir stellen aktuell Recherchen an und werden die Ergebnisse alsbald veröffentlichen.
 
 Ob mit oder ohne unseren Ergebnissen: Wir möchten euch ermutigen, euch selbst ein Bild vom Risikopotenzial zu machen.
-Im Kapitel [Sicherheit bei Infrarotstrahlen](/de/07-wiki/infrarot-sicherheit) findet ihr den aktuellen Stand unserer Recherchen, sowie alle Quellen, die wir benutzen.
+Im Kapitel [Sicherheit bei Infrarotstrahlen](/de/07-wiki/infrared-safety) findet ihr den aktuellen Stand unserer Recherchen, sowie alle Quellen, die wir benutzen.
 :::
 
 ## Funktionsweise
@@ -24,7 +24,7 @@ Im Kapitel [Sicherheit bei Infrarotstrahlen](/de/07-wiki/infrarot-sicherheit) fi
 Das Eye-Tracking-Brillengestell wird wie eine normale Brille aufgesetzt.
 Auf ein justierbares Ärmchen an der Seite befestigt ist eine kleine Kamera, die direkt auf das Auge gerichtet ist.
 Die Kamera wird dann über ein USB-Kabel mit einem Computer verbunden, auf welchem dann die verarbeitende Software läuft.
-Falls du noch keinen Laptop oder Computer hast, empfehlen wir dir, ein günstiges Gebrauchtgerät zuzulegen. Mehr dazu hier: [Ich habe noch keinen Laptop oder Computer mit Webcam](/de/03-der-eye-tracking-guide/04-webcam#buying-a-laptop) (Die Webcam brauchst du für dieses Kapitel nicht.)
+Falls du noch keinen Laptop oder Computer hast, empfehlen wir dir, ein günstiges Gebrauchtgerät zuzulegen. Mehr dazu hier: [Ich habe noch keinen Laptop oder Computer mit Webcam](/de/03-the-eye-tracking-guide/04-webcam#buying-a-laptop) (Die Webcam brauchst du für dieses Kapitel nicht.)
 
 Vorteile des Eye-Tracking-Brillengestells sind, dass durch die Nähe zum Auge der Blick sehr genau erfasst werden kann.
 Auch handelt es sich um eine Infrarotkamera mit integrierter Beleuchtung, wodurch die Aufzeichnung noch besser wird und die Brille bei schlechten Lichtverhältnissen benutzt werden kann.
@@ -71,11 +71,11 @@ Bei beiden Varianten wird am Ende die Kamera mit dem Computer, wenn nötig mithi
 
 ::: info In Kürze
 
-- **Art des Trackings:** [tragbares Eye-Tracking](/de/02-grundlagenwissen/02-eye-tracking-was-ist-das#wearable-based-eye-tracking)
+- **Art des Trackings:** [tragbares Eye-Tracking](/de/02-basic-knowledge/02-eye-tracking-what-is-this#wearable-based-eye-tracking)
 - **Benötigte Geräte und Materialien:** Eye-Tracking-Brillengestell (~30€)
-- **Aufzeichnung:** [Pupil (kostenlos)](/de/04-software-und-hardware-im-detail/pupil)
-- **Kalibrierung:** [Miranda (kostenlos)](/de/04-software-und-hardware-im-detail/miranda)
-- **Aktion:** [Optikey (kostenlos)](/de/04-software-und-hardware-im-detail/optikey)
+- **Aufzeichnung:** [Pupil (kostenlos)](/de/04-software-and-hardware-in-detail/pupil)
+- **Kalibrierung:** [Miranda (kostenlos)](/de/04-software-and-hardware-in-detail/miranda)
+- **Aktion:** [Optikey (kostenlos)](/de/04-software-and-hardware-in-detail/optikey)
 - **Anforderungen:**
   - Die Kamera des Gestells muss das Auge klar erkennen können.
 

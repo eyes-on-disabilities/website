@@ -17,13 +17,13 @@ Basic knowledge of radiometry is required.
 
 Lecture PDFs:
 
-- From the University of Berkeley: [Radiometry Lecture](https://cs184.eecs.berkeley.edu/public/sp19/lectures/lec-11-radiometry/lec-11-radiometry.pdf)
-- From Stanford University: [Radiometry Lecture](https://graphics.stanford.edu/courses/cs348b-03/lectures/radiometry-1.pdf)
+- From the University of Berkeley: https://cs184.eecs.berkeley.edu/public/sp19/lectures/lec-11-radiometry/lec-11-radiometry.pdf
+- From Stanford University: https://graphics.stanford.edu/courses/cs348b-03/lectures/radiometry-1.pdf
 
 Alternatively, Video Lectures:
 
-- A 50-minute lecture: [YouTube Video](https://www.youtube.com/watch?v=gLfYTP4F23g)
-- An 8-minute video: [YouTube Video](https://www.youtube.com/watch?v=tflz0loWhIY)
+- A 50-minute lecture: https://www.youtube.com/watch?v=gLfYTP4F23g
+- An 8-minute video: https://www.youtube.com/watch?v=tflz0loWhIY
 
 By the end, the following units should be understood:
 
