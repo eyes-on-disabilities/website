@@ -9,4 +9,4 @@ You may already have everything you need at home.
 Unfortunately, you will have to experiment a little.
 Not every solution is suitable for every person and every environment.
 However, we have gone to great lengths to make the software, hardware and our knowledge as accessible as possible.
-If you still have questions or suggestions, [do not hesitate to contact us](/en/06-miscellaneous/contact).
+If you still have questions or suggestions, [do not hesitate to contact us](/06-miscellaneous/contact).

@@ -16,7 +16,7 @@ At the moment, we cannot precisely assess the risks of infrared radiation near t
 We are currently conducting research and will publish the results as soon as possible.
 
 With or without our findings, we encourage you to make your own assessment of the potential risks.
-In the chapter [Safety with Infrared Radiation](/en/07-wiki/infrared-safety), you'll find the latest state of our research as well as all the sources we've used.
+In the chapter [Safety with Infrared Radiation](/07-wiki/infrared-safety), you'll find the latest state of our research as well as all the sources we've used.
 :::
 
 ## How It Works
@@ -24,7 +24,7 @@ In the chapter [Safety with Infrared Radiation](/en/07-wiki/infrared-safety), yo
 The eye-tracking glasses frame is worn like regular glasses.
 Attached to an adjustable arm on the side is a small camera that points directly at the eye.
 The camera is connected to a computer via a USB cable, where the processing software is then run.
-If you don’t have a laptop or computer yet, we recommend purchasing an inexpensive used device. More about this here: [I Don’t Have a Laptop or Computer with Webcam Yet](/en/03-the-eye-tracking-guide/04-webcam#buying-a-laptop) (You won't need the webcam for this chapter.)
+If you don’t have a laptop or computer yet, we recommend purchasing an inexpensive used device. More about this here: [I Don’t Have a Laptop or Computer with Webcam Yet](/03-the-eye-tracking-guide/04-webcam#buying-a-laptop) (You won't need the webcam for this chapter.)
 
 Advantages of the eye-tracking glasses frame include the close proximity to the eye, allowing for very precise gaze tracking
 It also uses an infrared camera with integrated illumination, enabling better tracking even under poor lighting conditions.
@@ -68,11 +68,11 @@ With both versions, the camera is finally connected to the computer, possibly us
 
 ::: info In Short
 
-- **Type of Tracking:** [Wearable-based Eye-Tracking](/en/02-basic-knowledge/02-eye-tracking-what-is-this#wearable-based-eye-tracking)
+- **Type of Tracking:** [Wearable-based Eye-Tracking](/02-basic-knowledge/02-eye-tracking-what-is-this#wearable-based-eye-tracking)
 - **Required Devices and Materials:** Eye-tracking glasses frame (~30€)
-- **Recording:** [Pupil (free)](/en/04-software-and-hardware-in-detail/pupil)
-- **Calibration:** [Miranda (free)](/en/04-software-and-hardware-in-detail/miranda)
-- **Action:** [Optikey (free)](/en/04-software-and-hardware-in-detail/optikey)
+- **Recording:** [Pupil (free)](/04-software-and-hardware-in-detail/pupil)
+- **Calibration:** [Miranda (free)](/04-software-and-hardware-in-detail/miranda)
+- **Action:** [Optikey (free)](/04-software-and-hardware-in-detail/optikey)
 - **Requirements:**
 - The camera on the frame must clearly recognize the eye.
 

@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: Get started now
-      link: /en/01-introduction/01-welcome
+      link: /01-introduction/01-welcome
 
 features:
   - icon: 💸

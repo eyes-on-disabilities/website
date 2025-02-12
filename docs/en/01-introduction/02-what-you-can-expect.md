@@ -12,7 +12,7 @@ Unfortunately, there is no one solution that works for every situation.
 Not only is everyone different, but environmental influences - such as lighting conditions - also play a role.
 So unfortunately you will have to experiment a little to find the right solution for you.
 However, we have gone to great lengths to make the software, hardware and our knowledge as accessible as possible.
-If you still have any questions or suggestions, [do not hesitate to contact us](/en/06-miscellaneous/contact).
+If you still have any questions or suggestions, [do not hesitate to contact us](/06-miscellaneous/contact).
 
 ## Structure of the chapters
 

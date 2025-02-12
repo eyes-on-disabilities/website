@@ -19,7 +19,7 @@ Those affected often lose the ability to speak or write due to muscle paralysis.
 In the later stages, often only conscious eye movement remains.
 
 Those affected and their relatives must now become creative.
-Communication is possible, for example, via simple "yes-no" questions with blinking or with [communication boards](/en/03-the-eye-tracking-guide/02-communication-boards).
+Communication is possible, for example, via simple "yes-no" questions with blinking or with [communication boards](/03-the-eye-tracking-guide/02-communication-boards).
 However, this requires time and patience from everyone involved.
 Nursing staff, who are already under a lot of pressure, are often unable to devote this time.
 Under time pressure, communication must be reduced to the bare essentials.

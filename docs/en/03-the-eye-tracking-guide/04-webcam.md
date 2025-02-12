@@ -4,7 +4,7 @@ This chapter shows which solutions already exist that only require a laptop or a
 
 ## How It Works
 
-All solutions mentioned in this chapter are either [external eye-tracking](/en/02-basic-knowledge/02-eye-tracking-what-is-this#screen-based-eye-tracking) or [head-tracking](/en/02-basic-knowledge/02-eye-tracking-what-is-this#head-tracking) solutions: a webcam is mounted on a screen or on a tripod and directed towards the head or face.
+All solutions mentioned in this chapter are either [external eye-tracking](/02-basic-knowledge/02-eye-tracking-what-is-this#screen-based-eye-tracking) or [head-tracking](/02-basic-knowledge/02-eye-tracking-what-is-this#head-tracking) solutions: a webcam is mounted on a screen or on a tripod and directed towards the head or face.
 The advantage of these solutions is their simple setup, and that many households already possess the required equipment.
 The downside is that due to the distance to the eye, the gaze direction can only be recorded to a limited extent.
 Additionally, these solutions are sensitive to poor lighting conditions.
@@ -31,11 +31,11 @@ This shop is notable not only for saving thousands of tons of CO₂ and electron
 
 ::: info In Short
 
-- **Type of Tracking:** [Head-Tracking](/en/02-basic-knowledge/02-eye-tracking-what-is-this#head-tracking)
+- **Type of Tracking:** [Head-Tracking](/02-basic-knowledge/02-eye-tracking-what-is-this#head-tracking)
 - **Required Devices and Materials:** Webcam ($20)
-- **Recording:** [AITrack (free)](/en/04-software-and-hardware-in-detail/aitrack)
-- **Calibration:** [Miranda (free)](/en/04-software-and-hardware-in-detail/miranda)
-- **Action:** [Optikey (free)](/en/04-software-and-hardware-in-detail/optikey)
+- **Recording:** [AITrack (free)](/04-software-and-hardware-in-detail/aitrack)
+- **Calibration:** [Miranda (free)](/04-software-and-hardware-in-detail/miranda)
+- **Action:** [Optikey (free)](/04-software-and-hardware-in-detail/optikey)
 - **Requirements:**
   - A webcam must be placed in front of the head.
   - The head must be able to move consciously.
@@ -61,11 +61,11 @@ Optikey is a free on-screen keyboard designed to be controlled using gaze direct
 
 ::: info In Short
 
-- **Type of Tracking:** [Head-Tracking](/en/02-basic-knowledge/02-eye-tracking-what-is-this#head-tracking)
+- **Type of Tracking:** [Head-Tracking](/02-basic-knowledge/02-eye-tracking-what-is-this#head-tracking)
 - **Required Devices and Materials:** Webcam (€20), printer for markers
-- **Recording:** [Opentrack (free)](/en/04-software-and-hardware-in-detail/opentrack)
-- **Calibration:** [Miranda (free)](/en/04-software-and-hardware-in-detail/miranda)
-- **Action:** [Optikey (free)](/en/04-software-and-hardware-in-detail/optikey)
+- **Recording:** [Opentrack (free)](/04-software-and-hardware-in-detail/opentrack)
+- **Calibration:** [Miranda (free)](/04-software-and-hardware-in-detail/miranda)
+- **Action:** [Optikey (free)](/04-software-and-hardware-in-detail/optikey)
 - **Requirements:**
   - A webcam must be placed in front of the head.
   - A printer is needed to print the ArUco markers.
@@ -95,11 +95,11 @@ Optikey is a free on-screen keyboard designed to be controlled using gaze direct
 
 ::: info In Short
 
-- **Type of Tracking:** [External Eye-Tracking](/en/02-basic-knowledge/02-eye-tracking-what-is-this#screen-based-eye-tracking)
+- **Type of Tracking:** [External Eye-Tracking](/02-basic-knowledge/02-eye-tracking-what-is-this#screen-based-eye-tracking)
 - **Required Devices and Materials:** Webcam ($20)
-- **Recording:** [Beam Eye-Tracker (2-hour free trial, then one-time $30)](/en/04-software-and-hardware-in-detail/beam)
+- **Recording:** [Beam Eye-Tracker (2-hour free trial, then one-time $30)](/04-software-and-hardware-in-detail/beam)
 - **Calibration:** Included in the Beam Eye-Tracker
-- **Action:** [Optikey (free)](/en/04-software-and-hardware-in-detail/optikey)
+- **Action:** [Optikey (free)](/04-software-and-hardware-in-detail/optikey)
 - **Requirements:**
   - A webcam must be placed in front of the face.
   - The clearer the eyes are visible, the better the tracking.

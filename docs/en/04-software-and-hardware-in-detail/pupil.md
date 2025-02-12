@@ -4,7 +4,7 @@
 _[© IFB-Stiftung](https://ifb-stiftung.de/), Logo from [Pupil](https://pupil-labs.com)_
 
 - Website: https://github.com/pupil-labs/pupil
-- Type: Software and Hardware, [Wearable Eye-Tracking](/en/02-basic-knowledge/02-eye-tracking-what-is-this#wearable-based-eye-tracking)
+- Type: Software and Hardware, [Wearable Eye-Tracking](/02-basic-knowledge/02-eye-tracking-what-is-this#wearable-based-eye-tracking)
 - Cost: Software is free. Hardware must be built.
 - License: Open-Source (LGPL-3.0, GPL-3.0)
 
