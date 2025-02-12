@@ -5,8 +5,6 @@ export const en = defineConfig({
     title: "Eyes on (Dis)Abilities",
     description: "Affordable eye-tracking solutions for more inclusion",
     themeConfig: {
-        logo: "/logo_64x64.png",
-
         nav: [
             { text: "Get started", link: "/en/01-introduction/01-welcome" },
             { text: "Contact", link: "/en/06-miscellaneous/contact" },
@@ -135,25 +133,9 @@ export const en = defineConfig({
             label: "Sections",
         },
 
-        socialLinks: [
-            { icon: "codeberg", link: "https://codeberg.org/eyes-on-disabilities" },
-            { icon: "github", link: "https://github.com/eyes-on-disabilities" },
-            { icon: "discord", link: "https://discord.gg/wqYUgdBDam" },
-            { icon: "mastodon", link: "https://cccwi.social/@eyes_on_disabilities" },
-        ],
-
         footer: {
             message: "Made with <3 by",
             copyright: "© IFB-Stiftung",
-        },
-
-        lastUpdated: {
-            text: "Last Updated",
-            formatOptions: {
-                dateStyle: "medium",
-                timeStyle: "short",
-                hourCycle: "h24",
-            },
         },
 
         docFooter: {

@@ -1,10 +1,12 @@
-import { defineConfig } from 'vitepress'
-import { de } from './de'
-import { en } from './en'
+import { defineConfig } from "vitepress";
+import { shared } from "./shared";
+import { de } from "./de";
+import { en } from "./en";
 
 export default defineConfig({
-  locales: {
-    de: { label: 'Deutsch', ...de },
-    en: { label: 'English', ...en },
-  }
-})
+    ...shared,
+    locales: {
+        root: { label: "English", ...en },
+        de: { label: "Deutsch", ...de },
+    },
+});
