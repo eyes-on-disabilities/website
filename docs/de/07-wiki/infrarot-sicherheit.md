@@ -16,7 +16,7 @@ Ob mit oder ohne unseren Ergebnissen: Wir möchten euch ermutigen, euch selbst e
 Nutzt dieses Kapitel gerne als Ausgangspunkt.
 :::
 
-## Vorausgesetztes Wissen: Radiometry
+## Vorausgesetztes Wissen: Radiometrie
 
 Grundkenntnisse in Radiometrie sind erforderlich.
 

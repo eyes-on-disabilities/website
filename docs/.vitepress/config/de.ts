@@ -1,13 +1,10 @@
 import { defineConfig } from "vitepress";
 
-// https://vitepress.dev/reference/site-config
 export const de = defineConfig({
-    lang: 'de-DE',
+    lang: "de-DE",
     title: "Eyes on (Dis)Abilities",
     description: "Günstige Eye-Tracking-Lösungen für mehr Teilhabe",
     themeConfig: {
-        // https://vitepress.dev/reference/default-theme-config
-
         logo: "/logo_64x64.png",
 
         nav: [
@@ -45,7 +42,10 @@ export const de = defineConfig({
             {
                 text: "Der Eye-Tracking-Guide",
                 items: [
-                    { text: "Einführung", link: "/de/03-der-eye-tracking-guide/01-einfuehrung" },
+                    {
+                        text: "Einführung",
+                        link: "/de/03-der-eye-tracking-guide/01-einfuehrung",
+                    },
                     {
                         text: "Kommunikationstafeln",
                         link: "/de/03-der-eye-tracking-guide/02-kommunikationstafeln",
@@ -59,7 +59,10 @@ export const de = defineConfig({
                         text: "Eye-Tracking-Brille",
                         link: "/de/03-der-eye-tracking-guide/05-eye-tracking-brille",
                     },
-                    { text: "Produkte", link: "/de/03-der-eye-tracking-guide/06-produkte" },
+                    {
+                        text: "Produkte",
+                        link: "/de/03-der-eye-tracking-guide/06-produkte",
+                    },
                 ],
             },
             {
@@ -89,7 +92,10 @@ export const de = defineConfig({
                         text: "OptiKey",
                         link: "/de/04-software-und-hardware-im-detail/optikey",
                     },
-                    { text: "Pupil", link: "/de/04-software-und-hardware-im-detail/pupil" },
+                    {
+                        text: "Pupil",
+                        link: "/de/04-software-und-hardware-im-detail/pupil",
+                    },
                 ],
             },
             {
@@ -137,8 +143,8 @@ export const de = defineConfig({
         ],
 
         footer: {
-            message: "Released under the MIT License.",
-            copyright: "Copyright © 2019-present Evan You",
+            message: "Made with <3 by",
+            copyright: "© IFB-Stiftung",
         },
 
         lastUpdated: {

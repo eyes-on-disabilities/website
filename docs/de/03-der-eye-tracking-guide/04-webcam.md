@@ -4,7 +4,7 @@ In diesem Kapitel wird gezeigt, welche Lösung bereits existieren, die nur einen
 
 ## Funktionsweise
 
-Bei allen in diesem Kapitel genannten Lösungen handelt es sich um [externe Eye-Tracking-Lösungen](/de/02-grundlagenwissen/02-eye-tracking-was-ist-das#screen-based-eye-tracking) beziehungsweise [Head-Tracking](/de/02-grundlagenwissen/02-eye-tracking-was-ist-das#head-tracking): eine Webcam wird an einem Bildschirm oder auf einem Stativ befestigt und frontal auf Kopf oder auf das Gesicht gerichtet.
+Bei allen in diesem Kapitel genannten Lösungen handelt es sich um [externe Eye-Tracking-](/de/02-grundlagenwissen/02-eye-tracking-was-ist-das#screen-based-eye-tracking) beziehungsweise [Head-Tracking-Lösungen](/de/02-grundlagenwissen/02-eye-tracking-was-ist-das#head-tracking): eine Webcam wird an einem Bildschirm oder auf einem Stativ befestigt und frontal auf Kopf oder auf das Gesicht gerichtet.
 Der Vorteil dieser Lösungen ist der simple Aufbau, und dass viele Haushalte bereits die geforderten Geräte besitzen.
 Der Nachteil ist, dass aufgrund der Entfernung zum Auge die Blickrichtung nur bedingt gut aufgezeichnet werden kann.
 Auch sind die Lösungen anfällig für schlechte Lichtverhältnisse.
@@ -20,7 +20,8 @@ Ein gebrauchter Laptop oder Computer mit empfohlenen Anforderungen ist bereits f
 - **Arbeitsspeicher:** 8GB
 - **Freier Speicherplatz:** 8GB
 - **Betriebssystem:** Windows 10
-  :::
+
+:::
 
 Zur Webcam haben wir keine gesonderten Anforderungen. Sollte nicht schon eine im Laptop verbaut sein ist eine 20€-Webcam vollkommen ausreichend.
 Wir empfehlen für Käufe den https://www.afbshop.de/, auf welchem aufbereitete, gebrauchte Geräte mit Garantie weiterverkauft werden.
@@ -35,8 +36,11 @@ Der Shop zeichnet sich nicht nur dadurch aus, dass durch dessen Arbeit tausende 
 - **Aufzeichnung:** [AITrack (kostenlos)](/de/04-software-und-hardware-im-detail/aitrack)
 - **Kalibrierung:** [Miranda (kostenlos)](/de/04-software-und-hardware-im-detail/miranda)
 - **Aktion:** [Optikey (kostenlos)](/de/04-software-und-hardware-im-detail/optikey)
-- **Anforderungen:** - Eine Webcam muss vor dem Kopf platziert werden. - Der Kopf muss wissentlich bewegt werden können.
-  :::
+- **Anforderungen:**
+  - Eine Webcam muss vor dem Kopf platziert werden.
+  - Der Kopf muss wissentlich bewegt werden können.
+
+:::
 
 In dieser Anleitung verwenden wir AITrack, Miranda und Optikey.
 AITrack ist eine kostenlose Software, die die Kopfbewegung aufzeichnet.
@@ -64,8 +68,12 @@ Die Anleitung:
 - **Aufzeichnung:** [Opentrack (kostenlos)](/de/04-software-und-hardware-im-detail/opentrack)
 - **Kalibrierung:** [Miranda (kostenlos)](/de/04-software-und-hardware-im-detail/miranda)
 - **Aktion:** [Optikey (kostenlos)](/de/04-software-und-hardware-im-detail/optikey)
-- **Anforderungen:** - Eine Webcam muss vor dem Kopf platziert werden. - Es wird ein Drucker benötigt, um die ArUco Marker zu drucken. - Der Kopf muss wissentlich bewegt werden können.
-  :::
+- **Anforderungen:**
+  - Eine Webcam muss vor dem Kopf platziert werden.
+  - Es wird ein Drucker benötigt, um die ArUco Marker zu drucken.
+  - Der Kopf muss wissentlich bewegt werden können.
+
+:::
 
 In dieser Anleitung verwenden wir Opentrack, Miranda und Optikey.
 Opentrack ist eine kostenlose Software, die Head- und Eye-Tracker-Daten aufnehmen, verändern und weitergeben kann.
@@ -96,9 +104,11 @@ Die Anleitung:
 - **Aufzeichnung:** [Beam Eye-Tracker (2 Stunden kostenlose Testversion, dann einmalig 30€)](/de/04-software-und-hardware-im-detail/beam)
 - **Kalibrierung:** Im Beam Eye-Tracker enthalten
 - **Aktion:** [Optikey (kostenlos)](/de/04-software-und-hardware-im-detail/optikey)
-- **Anforderungen:** - Eine Webcam muss vor dem Gesicht platziert werden.
-  Je klarer die Augen erkennbar sind, umso besser.
-  :::
+- **Anforderungen:**
+  - Eine Webcam muss vor dem Gesicht platziert werden.
+    Je klarer die Augen erkennbar sind, umso besser.
+
+:::
 
 In dieser Anleitung verwenden wir den Beam Eye-Tracker und Optikey.
 Beam ist eine kostenpflichtige Software, die mithilfe der Webcam die Augenbewegung aufzeichnet.

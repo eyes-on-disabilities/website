@@ -76,8 +76,10 @@ Bei beiden Varianten wird am Ende die Kamera mit dem Computer, wenn nötig mithi
 - **Aufzeichnung:** [Pupil (kostenlos)](/de/04-software-und-hardware-im-detail/pupil)
 - **Kalibrierung:** [Miranda (kostenlos)](/de/04-software-und-hardware-im-detail/miranda)
 - **Aktion:** [Optikey (kostenlos)](/de/04-software-und-hardware-im-detail/optikey)
-- **Anforderungen:** - Die Kamera des Gestells muss das Auge klar erkennen können.
-  :::
+- **Anforderungen:**
+  - Die Kamera des Gestells muss das Auge klar erkennen können.
+
+:::
 
 In dieser Anleitung verwenden wir Pupil, Miranda und Optikey.
 Pupil ist eine kostenlose Software, die das Auge aufzeichnet.

@@ -1,5 +1,4 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
@@ -12,14 +11,9 @@ hero:
   actions:
     - theme: brand
       text: Jetzt loslegen
-      link: /de/01-einfuehrung/01-willkommen.html
-    #- theme: alt
-    #  text: API Examples
-    #  link: /api-examples
+      link: /de/01-einfuehrung/01-willkommen
 
 features:
-
-
   - icon: 💸
     title: Günstig bis Kostenlos
     details: "Mit so wenig Ausgaben wie möglich eine passendes Eye-Tracking-System aufbauen."
