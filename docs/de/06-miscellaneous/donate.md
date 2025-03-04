@@ -13,7 +13,7 @@ https://www.betterplace.org/de/projects/113424-gaming-dis-abilities
 Dort siehst du transparent, wo welche Gelder hinfließen und kannst zudem leicht mitentscheiden, wofür wir deine Spende verwenden sollen.
 Um zu spenden klickst du entweder auf den zuvor genannten Link oder im folgenden Fenster auf _"Informieren & spenden"_.
 
-<iframe src="https://www.betterplace-widget.org/projects/113424?l=de" width="100%" height="320" frameborder="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="https://www.betterplace-widget.org/projects/113424?l=de" height="320" frameborder="0" marginwidth="0" marginheight="0"></iframe>
 
 ## **Spenden per Banküberweisung**
 

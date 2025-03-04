@@ -13,7 +13,7 @@ https://www.betterplace.org/en/projects/113424-gaming-dis-abilities
 There, you can transparently see where the funds are allocated, and you can also have a say in how your donation is used.
 To donate, either click on the link from before, or on _"View & donate"_ in the following frame.
 
-<iframe src="https://www.betterplace-widget.org/projects/113424?l=en" width="100%" height="320" frameborder="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="https://www.betterplace-widget.org/projects/113424?l=en" height="320" frameborder="0" marginwidth="0" marginheight="0"></iframe>
 
 ## **Donations via Bank Transfer**
 
