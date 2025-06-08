@@ -5,9 +5,6 @@ hero:
   name: Eyes on (Dis)Abilities
   text: Affordable eye-tracking solutions for more inclusion.
   tagline: For people with ALS and other motor neuron diseases.
-  image:
-    src: /logo.png
-    alt: Eyes on Disabilities logo
   actions:
     - theme: brand
       text: Get started now

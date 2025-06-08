@@ -73,3 +73,31 @@
   --vp-c-divider: var(--eod-violet-05);
   --vp-c-gutter: var(--vp-c-black);
 }
+
+:root {
+  /** Rules to change the hero area, so that
+   * - the image is on the same height as the info text, and
+   * - on small screens the image is below the info text.
+   **/
+  .VPHero .container {
+    flex-direction: column-reverse;
+    gap: 32px;
+  }
+
+  @media (min-width: 960px) {
+    .VPHero .container {
+      flex-direction: row;
+      gap: unset;
+    }
+  }
+
+  .VPHero .container .image {
+    margin: 0;
+  }
+
+  .VPHero .container .image .image-container {
+    margin: 0;
+    width: 100%;
+    transform: unset;
+  }
+}

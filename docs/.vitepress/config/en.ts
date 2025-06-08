@@ -9,8 +9,6 @@ export const en = defineConfig({
             { text: "Get started", link: "/01-introduction/01-welcome" },
             { text: "Contact", link: "/06-miscellaneous/contact" },
             { text: "Donate", link: "/06-miscellaneous/donate" },
-            { text: "Imprint", link: "/06-miscellaneous/imprint" },
-            { text: "Privacy", link: "/06-miscellaneous/privacy" },
         ],
 
         sidebar: [
@@ -131,11 +129,6 @@ export const en = defineConfig({
 
         outline: {
             label: "Sections",
-        },
-
-        footer: {
-            message: "Made with <3 by",
-            copyright: "© IFB-Stiftung",
         },
 
         docFooter: {

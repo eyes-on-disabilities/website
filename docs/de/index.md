@@ -5,9 +5,6 @@ hero:
   name: Eyes on (Dis)Abilities
   text: Günstige Eye-Tracking-Lösungen für mehr Teilhabe.
   tagline: Für Menschen mit ALS und anderen Motoneuron-Krankheiten.
-  image:
-    src: /logo.png
-    alt: Eyes on Disabilities logo
   actions:
     - theme: brand
       text: Jetzt loslegen
