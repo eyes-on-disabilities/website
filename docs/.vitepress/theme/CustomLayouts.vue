@@ -4,6 +4,7 @@ import { useData } from "vitepress";
 
 const { Layout } = DefaultTheme;
 const { lang } = useData();
+const { frontmatter } = useData();
 </script>
 
 <template>
@@ -13,7 +14,7 @@ const { lang } = useData();
     </template>
 
     <template #layout-bottom>
-      <footer>
+      <footer v-if="frontmatter.layout == 'home'">
         <div class="container">
           <div class="items">
             <div class="item grid-2 brands">
