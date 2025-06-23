@@ -13,11 +13,21 @@ https://www.betterplace.org/de/projects/113424-gaming-dis-abilities
 Dort siehst du transparent, wo welche Gelder hinfließen und kannst zudem leicht mitentscheiden, wofür wir deine Spende verwenden sollen.
 Um zu spenden klickst du entweder auf den zuvor genannten Link oder im folgenden Fenster auf _"Informieren & spenden"_.
 
+:::info Warum das Konto *"Gaming & Disabilties"* heißt
+*"Eyes on Disabilities"* ist aus dem *"Gaming & Disabilities"*-Projekt entstanden.
+Unser Betterplace-Konto deckt beide Projekte ab.
+:::
+
 <iframe src="https://www.betterplace-widget.org/projects/113424?l=de" height="320" frameborder="0" marginwidth="0" marginheight="0"></iframe>
 
 ## **Spenden per Banküberweisung**
 
 Gerne kannst du uns auch per Banküberweisung eine Spende zukommen lassen.
+
+:::info Warum das Konto *"IFB-Stiftung"* heißt
+Unser Projekt ist eine Zusammenarbeit zwischen der IFB-Stiftung und dem Chaos Computer Club Wiesbaden.
+Aktuell verwaltet die IFB-Stiftung unsere Spendeneinnahmen.
+:::
 
 **Kontoinhaber: IFB-Stiftung
 Verwendungszweck: Gaming  

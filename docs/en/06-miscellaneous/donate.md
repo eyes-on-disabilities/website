@@ -13,11 +13,21 @@ https://www.betterplace.org/en/projects/113424-gaming-dis-abilities
 There, you can transparently see where the funds are allocated, and you can also have a say in how your donation is used.
 To donate, either click on the link from before, or on _"View & donate"_ in the following frame.
 
+:::info Why the account is called "Gaming & Disabilities"
+"Eyes on Disabilities" originated from the "Gaming & Disabilities" project.
+Our Betterplace account covers both projects.
+:::
+
 <iframe src="https://www.betterplace-widget.org/projects/113424?l=en" height="320" frameborder="0" marginwidth="0" marginheight="0"></iframe>
 
 ## **Donations via Bank Transfer**
 
 If you prefer, you can also donate via bank transfer.
+
+:::info Why the account is called "IFB-Stiftung"
+Our project is a collaboration between the IFB Foundation and the Chaos Computer Club Wiesbaden.
+Currently, the IFB Foundation manages our donation income.
+:::
 
 **Account holder: IFB-Stiftung  
 Reference: Gaming  

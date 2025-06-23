@@ -7,7 +7,7 @@ export const de = defineConfig({
     themeConfig: {
         nav: [
             { text: "Jetzt loslegen", link: "/de/01-introduction/01-welcome" },
-            { text: "Kontakt", link: "/de/06-miscellaneous/contact" },
+            { text: "Kontakt & Mitmachen", link: "/de/06-miscellaneous/contact" },
             { text: "Spenden", link: "/de/06-miscellaneous/donate" },
         ],
 

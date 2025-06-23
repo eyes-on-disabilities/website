@@ -7,7 +7,7 @@ export const en = defineConfig({
     themeConfig: {
         nav: [
             { text: "Get started", link: "/01-introduction/01-welcome" },
-            { text: "Contact", link: "/06-miscellaneous/contact" },
+            { text: "Contact & Contribute", link: "/06-miscellaneous/contact" },
             { text: "Donate", link: "/06-miscellaneous/donate" },
         ],
 
