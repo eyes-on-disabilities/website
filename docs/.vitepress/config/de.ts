@@ -123,6 +123,7 @@ export const de = defineConfig({
                         text: "Sicherheit bei Infrarotstrahlen",
                         link: "/de/07-wiki/infrared-safety",
                     },
+                    { text: "Aufgaben", link: "/de/07-wiki/tasks" },
                 ],
             },
         ],

@@ -123,6 +123,7 @@ export const en = defineConfig({
                         text: "Infrared Safety",
                         link: "/07-wiki/infrared-safety",
                     },
+                    { text: "Tasks", link: "/07-wiki/tasks" },
                 ],
             },
         ],
